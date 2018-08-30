@@ -32,7 +32,7 @@ class todo(scrapy.Spider):
 		
 		url = 'https://www.webmotors.com.br/carro/marcasativas?tipoAnuncio=novos-usados'
 
-		yield scrapy.Request(url=url, callback=self.parse_models)
+		yield scrapy.Request(url=url, callback=self.parse_models, meta={'m_type': 'carro'})
 
 
 	# get model list
@@ -42,17 +42,18 @@ class todo(scrapy.Spider):
 		models = models['Common'] + models['Principal']
 
 		for model in models:
-			model_title = str(model['N']).lower()
+			model_title = model['N'].encode('utf-8').strip().lower().replace(' ', '-')
 
-			page_url = ('https://www.webmotors.com.br/carros/estoque/%s?qt=36' % (model_title))
+			search_page_url = ('https://www.webmotors.com.br/carros/estoque/%s?qt=36' % (model_title))
+			m_type = response.meta['m_type']
 
-			yield scrapy.Request(url=page_url, callback=self.parse_search_result_page, meta={'page_id': 1, 'page_url': page_url})
-
-			return
+			yield scrapy.Request(url=search_page_url, callback=self.parse_search_result_page, meta={'page_id': 1, 'search_page_url': search_page_url, 'm_type': m_type})
 
 
 	# parse search result page
 	def parse_search_result_page(self, response):
+		
+		m_type = response.meta['m_type']
 
 		selector_list = response.xpath('//div[contains(@class, "boxResultado")]/a')
 
@@ -71,14 +72,14 @@ class todo(scrapy.Spider):
 
 				item['a_type'] = self.validate(selector.xpath('.//div[contains(@class, "card-footer")]/span[1]/text()').extract_first())
 
-				yield scrapy.Request(url=detail_link, callback=self.parse_detail_page, meta={'item': item})
+				yield scrapy.Request(url=detail_link, callback=self.parse_detail_page, meta={'item': item, 'm_type': m_type})
 
 			page_id = response.meta['page_id']
 			page_id += 1
 
-			page_url = (('%s&p=%s') % (response.meta['page_url'], page_id))
+			search_page_url = (('%s&p=%s') % (response.meta['search_page_url'], page_id))
 
-			yield scrapy.Request(url=page_url, callback=self.parse_search_result_page, meta={'page_id': page_id})
+			yield scrapy.Request(url=search_page_url, callback=self.parse_search_result_page, meta={'page_id': page_id, 'm_type': m_type, 'search_page_url': response.meta['search_page_url']})
 
 
 	# parse detail page
@@ -106,19 +107,31 @@ class todo(scrapy.Spider):
 
 		item['end_plate'] = self.validate(response.xpath('//div[@class="vehicle-details__main-info"]/table//tr[2]/td[3]/span/text()').extract_first())
 
-		item['items'] = self.validate(', '.join(response.xpath('//div[contains(@class, "size-default")]/div/table//td/text()').extract()))
+		item['items'] = self.validate('\n'.join(response.xpath('//div[contains(@class, "size-default")]/div/table//td/text()').extract()))
 
 		item['seller_notes'] = self.validate(response.xpath('//div[contains(@class, "size-default")]//p[@class="info-seller"]/text()').extract_first())
 
 		imgURL_list = response.xpath('//div[contains(@class, "carousel-inner")]//img/@src').extract()
 
+		images = []
+
 		for imgURL in imgURL_list:
 
 			imgURL = imgURL.split('?')[0]
 
+			images.append(imgURL)
+
 			yield scrapy.Request(imgURL, callback=self.image_download)
 
-		print item
+		item['images'] = '\n'.join(images)
+
+		code = self.validate(response.xpath('//form/input[@name="codigoAnuncio"]/@value').extract_first())
+
+		m_type = response.meta['m_type']
+
+		phone_url = ('https://www.webmotors.com.br/comprar/versomentetelefone?codigoAnuncio=%s&tipoVeiculo=%s' % (code, m_type))
+
+		yield scrapy.Request(url=phone_url, callback=self.parse_phone_number, meta={'item': item})
 
 
 	# download images
@@ -129,3 +142,19 @@ class todo(scrapy.Spider):
 		with open(name, 'wb') as f:
 
 			f.write(response.body)
+
+
+	# parse phone number
+	def parse_phone_number(self, response):
+		phone_list = json.loads(response.body_as_unicode().replace("'", '"'))
+
+		phone_numbers = []
+
+		for phone in phone_list:
+			phone_numbers.append(phone['Telefone'])
+
+		item = response.meta['item']
+
+		item['phone_numbers'] = '\n'.join(phone_numbers)
+
+		yield item
