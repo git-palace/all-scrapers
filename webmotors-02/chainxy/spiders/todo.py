@@ -30,9 +30,11 @@ class todo(scrapy.Spider):
 	# start scrapy
 	def start_requests(self):
 		
-		url = 'https://www.webmotors.com.br/carro/marcasativas?tipoAnuncio=novos-usados'
+		for model_type in ['carro', 'moto']:
 
-		yield scrapy.Request(url=url, callback=self.parse_models, meta={'m_type': 'carro'})
+			url = ('https://www.webmotors.com.br/%s/marcasativas' % (model_type))
+
+			yield scrapy.Request(url=url, callback=self.parse_models, meta={'m_type': model_type})
 
 
 	# get model list
@@ -40,12 +42,12 @@ class todo(scrapy.Spider):
 
 		models = json.loads(response.body_as_unicode().replace("'", '"'))
 		models = models['Common'] + models['Principal']
+		m_type = response.meta['m_type']
 
 		for model in models:
 			model_title = model['N'].encode('utf-8').strip().lower().replace(' ', '-')
 
-			search_page_url = ('https://www.webmotors.com.br/carros/estoque/%s?qt=36' % (model_title))
-			m_type = response.meta['m_type']
+			search_page_url = ('https://www.webmotors.com.br/%ss/estoque/%s?qt=36' % (m_type, model_title))
 
 			yield scrapy.Request(url=search_page_url, callback=self.parse_search_result_page, meta={'page_id': 1, 'search_page_url': search_page_url, 'm_type': m_type})
 
