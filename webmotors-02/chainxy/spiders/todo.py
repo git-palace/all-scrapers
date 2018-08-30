@@ -22,8 +22,11 @@ class todo(scrapy.Spider):
 	# validate
 	def validate(self, item):
 		try:
+			
 			return item.replace('\n', '').replace('\t', '').replace('\r', '').strip()
+
 		except:
+
 			pass
 
 
@@ -79,7 +82,7 @@ class todo(scrapy.Spider):
 					yield scrapy.Request(url=detail_link, callback=self.parse_detail_page, meta={'item': item, 'm_type': m_type})
 
 				except:
-					
+
 					pass
 
 
