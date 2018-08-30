@@ -62,19 +62,26 @@ class todo(scrapy.Spider):
 		if len(selector_list) > 0:
 
 			for selector in selector_list:
-				item = ChainItem()
+				try:
 
-				detail_link = selector.xpath('./@href').extract_first()
+					item = ChainItem()
 
-				item['version_of_year'] = self.validate(selector.xpath('.//span[@class="version"]/text()').extract_first())
+					detail_link = selector.xpath('./@href').extract_first()
 
-				item['financing'] = self.validate('\n'.join(selector.xpath('.//div[@class="mrg-left attributes"]/span/text()').extract()))
+					item['version_of_year'] = self.validate(selector.xpath('.//span[@class="version"]/text()').extract_first())
 
-				item['city'] = self.validate(selector.xpath('.//div[contains(@class, "card-footer")]/span[1]/text()').extract_first())
+					item['financing'] = self.validate('\n'.join(selector.xpath('.//div[@class="mrg-left attributes"]/span/text()').extract()))
 
-				item['a_type'] = self.validate(selector.xpath('.//div[contains(@class, "card-footer")]/span[1]/text()').extract_first())
+					item['city'] = self.validate(selector.xpath('.//div[contains(@class, "card-footer")]/span[1]/text()').extract_first())
 
-				yield scrapy.Request(url=detail_link, callback=self.parse_detail_page, meta={'item': item, 'm_type': m_type})
+					item['a_type'] = self.validate(selector.xpath('.//div[contains(@class, "card-footer")]/span[1]/text()').extract_first())
+
+					yield scrapy.Request(url=detail_link, callback=self.parse_detail_page, meta={'item': item, 'm_type': m_type})
+
+				except:
+					
+					pass
+
 
 			page_id = response.meta['page_id']
 			page_id += 1
