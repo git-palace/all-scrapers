@@ -40,7 +40,7 @@ class todo(scrapy.Spider):
 
 	def __init__(self):
 
-		with open('center_result_websites.csv', 'rb') as csv_file:
+		with open('No Email Address.csv', 'rb') as csv_file:
 
 			csv_reader = csv.DictReader(csv_file)
 
@@ -59,12 +59,11 @@ class todo(scrapy.Spider):
 	def start_requests(self):
 
 		yield scrapy.Request(url='https://yelp.com', callback=self.start_business_emails)
+		# yield scrapy.Request(url='https://www.gowillhart.com/', callback=self.parse, meta={'business_name': 'Go Will Hart', 'website': 'www.gowillhart.com'})
 
 
 
 	def start_business_emails(self, response):
-
-		pdb.set_trace()
 
 		for business in self.business_list:
 
@@ -107,11 +106,21 @@ class todo(scrapy.Spider):
 
 		if (response.status == 200):
 
-			email = self.validate(response.xpath('//a[contains(@href, "mailto")]/@href').extract_first())
+			text_arr = response.xpath('//body//text()').extract()
+
+			email = ''
+
+			for text in text_arr:
+
+				email = self.check_email(text)
+
+				if email:
+
+					break
 
 			if email:
 
-				item['email'] = email.split('?')[0]
+				item['email'] = email
 
 			yield item
 
@@ -120,11 +129,21 @@ class todo(scrapy.Spider):
 			yield item
 
 
+	def check_email(self, text):
+
+		match = re.search(r"(^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$)", self.validate(text))
+
+		if match:
+
+			return match.group(0)
+
+		return False
+
 	def validate(self, item):
 
 		try:
 
-			return item.replace('\n', '').replace('\t','').replace('\r', '').replace('mailto:', '').strip()
+			return item.replace('\n', '').replace('\t','').replace('\r', '').strip()
 
 		except:
 
@@ -133,12 +152,12 @@ class todo(scrapy.Spider):
 
 	def eliminate_space(self, items):
 
-	    tmp = []
+		tmp = []
 
-	    for item in items:
+		for item in items:
 
-	        if self.validate(item) != '':
+			if self.validate(item) != '':
 
-	            tmp.append(self.validate(item))
+				tmp.append(self.validate(item))
 
-	    return tmp
+		return tmp
