@@ -252,7 +252,7 @@ class todo(scrapy.Spider):
 
 		for key, value in item.items():
 
-				main_table_sheet.cell( column = self.main_table_headers.index(key) + 1, row = self.workbook_list[brand]['cur_rowIndex'], value = value)
+			main_table_sheet.cell( column = self.main_table_headers.index(key) + 1, row = self.workbook_list[brand]['cur_rowIndex'], value = value)
 
 		self.workbook_list[brand]['cur_rowIndex'] += 1
 

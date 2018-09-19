@@ -1,0 +1,4664 @@
+{
+  "search": {
+    "time": 180,
+    "totalCount": 6136089,
+    "cursorId": "0.8923166_1038060659",
+    "result": {
+      "listings": [
+        {
+          "listing": {
+            "amenities": [
+              "NEAR_ACCESS_ROADS",
+              "NEAR_SHOPPING_CENTER",
+              "NEAR_PUBLIC_TRANSPORT",
+              "NEAR_SCHOOL",
+              "NEAR_HOSPITAL",
+              "BACKYARD",
+              "KITCHEN",
+              "SERVICE_AREA",
+              "EXTERIOR_VIEW",
+              "GARAGE",
+              "INTERNET_ACCESS"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              120
+            ],
+            "description": "ENTRADA DE R$150.000,00 + Parcelas. Casa com 3 dormitórios, sendo 2 suítes, sala, cozinha e banheiro, 3 vagas de garagem. Casa 50 mts da praia. Estuda carro como parte de pagamento.<br><br>Construtora na Praia Grande; Imóveis à venda em Praia Grande; Venda e locação de Imóveis em Praia Grande;",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Casa 3 quartos à venda na Mirim Praia Grande",
+            "createdAt": "2018-09-13T14:26:12.465Z",
+            "publisherId": 5712,
+            "unitTypes": [
+              "HOME"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "01334727844",
+                "013988180025"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1041095282",
+            "parkingSpaces": [
+              3
+            ],
+            "updatedAt": "2018-09-13T14:31:19.239Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6a1c29fcd1db95428d0f63c54ca2d957.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/fb52594f715b8f6fd3ff74681511932b.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/042a30ab60faa498d505e10355cc3bc9.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/156c70f712b01578f0a2f9596c0fcadd.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ec7b1726a6961007591884bceef5c555.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7bad210a338d3bbc67debaaea039969c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/9d961ca8331126a103dd61296b69aa8f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a4b4f7cde00b378a9b97d05956635f22.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/916f7b77561b6a18d5599574f6135e04.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/de1cfe4c120e06b918f88abacfcac1cd.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4d9291a74ed383055246f5716a17ed62.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/87c0b6e51745b89e35de4f63f1f4cce7.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2a22fc3926ac25f114e43cf22bd09df5.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/46b1044431264aad072bd7e815e693e2.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d4c6bd1a351cfa566093b2ad927fbbfa.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1ff3d7b663941eda9f31eac2a84adb71.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/8807e8c9d4bd33438978796374b66d0d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7c6570829d530d7a4aaf175b1493bdfa.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6f7a1f14e2832453ba683a3bfd29c85f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/31b88c4d9badd57605a854c277ae4a9c.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "São Paulo",
+              "city": "Praia Grande",
+              "neighborhood": "Maracanã",
+              "street": "Avenida Anita Barrella",
+              "streetNumber": "143",
+              "unitNumber": "",
+              "zipCode": "11705430",
+              "locationId": "BR>Sao Paulo>NULL>Praia Grande>Barrios>Maracana",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -24.040238,
+                  "lon": -46.504119
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              2
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "NLI7187 - AILTON",
+            "bathrooms": [
+              1
+            ],
+            "totalAreas": [
+              150
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              3
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "yearlyIptu": "190",
+                "price": "150000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "5712",
+            "name": "J.A.D.S. Santana Corretor de Imóveis",
+            "address": {
+              "country": "BR",
+              "zipCode": "11705-750",
+              "city": "Praia Grande",
+              "streetNumber": "",
+              "zone": "",
+              "street": "Avenida Presidente Kennedy",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "SP",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "013988180025",
+              "alternative": "",
+              "primary": "01334727844"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6748b722e2783831ed316cf3f799565e.jpg",
+            "licenseNumber": "75645-F-SP",
+            "websiteUrl": "http://www.construtoralitoral.com.br/",
+            "leadEmails": [
+              "ailtonnovalitoral@gmail.com"
+            ],
+            "createdDate": "2012-01-10T22:00:57Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "1041095282",
+            "link": {
+              "name": "Casa com 3 Quartos à venda, 120m²",
+              "href": "/imovel/casa-3-quartos-maracana-bairros-praia-grande-com-garagem-120m2-venda-RS150000-id-1041095282/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/5712/j-a-d-s-santana-corretor-de-imoveis/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "BARBECUE_GRILL",
+              "ELEVATOR",
+              "GARDEN",
+              "GOURMET_SPACE",
+              "GYM",
+              "PARTY_HALL",
+              "PLAYGROUND",
+              "POOL",
+              "SPORTS_COURT",
+              "NEAR_ACCESS_ROADS",
+              "ALARM_SYSTEM",
+              "GATED_COMMUNITY",
+              "INTERCOM",
+              "SECURITY_24_HOURS",
+              "NEAR_PUBLIC_TRANSPORT",
+              "KITCHEN",
+              "EXTERIOR_VIEW"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              65
+            ],
+            "description": "Apartamento reformado, todo em porcelanato, localizado no 5 º andar, no Condomínio Parque das Palmeiras.<br>> Excelente aproveitamento do espaço interno.<br><br>Condomínio com total segurança para sua família: área de lazer com piscina adulto e infantil, bar molhado, salão de festas, academia, brinquedoteca, playground e quadra poliesportiva, tudo isso com condomínio de apenas R$280,00.<br><br>Próximo às principais vias de acesso da parte alta da cidade. Próximo à escolas, hospitais, centro empresarial, bancos, loteria, restaurantes, lanchonetes e academias e tudo o que você necessita para um dia a dia mais dinâmico e prático.<br><br>> Aceita financiamento bancário.<br><br>* Entre em contato via celular ou WhatsApp, e agende sua visita!",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Lindo apartamento com 65 m², 03 quartos (01 suíte) na Serraria, próximo à Fundação Bradesco.",
+            "createdAt": "2018-07-27T14:36:22.616Z",
+            "publisherId": 99165,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "082999928098",
+                "082996900597"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1039082140",
+            "parkingSpaces": [
+              1
+            ],
+            "updatedAt": "2018-07-28T18:55:28.832Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/59c2b4a9d6620f424813efd427c23d4b.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/92882881edf4092802e86b93c4fe37ae.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a9e33659f07a0404c79d1d721e98ee7a.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/9f75d04e1898c5e75169d33ddd42c978.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d0401d090a33f08dcd1f10eef3760250.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/c52b0adb7577e27be4797c57b54680d0.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/76f5569ad11c43b8b520ad3e8d5836fa.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/54cad274fd0f00041bb99f1e73c3912e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7a8147a86b98aa718598b5abe55cccca.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/962b25f7ae6f255b083d027c81d0e9e7.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/44835f1932aefe0666e9577eecb1ef75.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/8b1cf746717c4103d7db42a902de4323.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/8b8664a35c1901fee9142b3af4018962.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2ce21a02b41e149804577b316f70b2f1.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "neighborhood": "Serraria",
+              "street": "Avenida Presidente Getúlio Vargas",
+              "streetNumber": "66",
+              "unitNumber": "",
+              "zipCode": "57046140",
+              "locationId": "BR>Alagoas>NULL>Maceio>Barrios>Serraria",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -9.613946,
+                  "lon": -35.729431
+                },
+                "precision": "RANGE_INTERPOLATED"
+              }
+            },
+            "suites": [
+              1
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "p001\np001",
+            "bathrooms": [
+              2
+            ],
+            "totalAreas": [
+              65
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              3
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "price": "270000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "280"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "99165",
+            "name": "Pedro Luiz Rodrigues Ramalho",
+            "address": {
+              "country": "BR",
+              "zipCode": "57052-401",
+              "city": "Maceió",
+              "streetNumber": "",
+              "zone": "",
+              "street": "Rua Coronel Murilo Otávio de Barros",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "AL",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "082996900597",
+              "alternative": "",
+              "primary": "082999928098"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6c3e226b4d4795d518ab341b0824ec29.jpg",
+            "licenseNumber": "3939-F-AL",
+            "websiteUrl": "",
+            "leadEmails": [],
+            "createdDate": "2015-08-18T19:04:40Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "1039082140",
+            "link": {
+              "name": "Apartamento com 3 Quartos à venda, 65m²",
+              "href": "/imovel/apartamento-3-quartos-serraria-bairros-maceio-com-garagem-65m2-venda-RS270000-id-1039082140/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/99165/pedro-luiz-rodrigues-ramalho/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "SERVICE_AREA",
+              "BARBECUE_GRILL",
+              "KITCHEN",
+              "ELEVATOR",
+              "INTERCOM",
+              "POOL",
+              "BALCONY",
+              "SAUNA"
+            ],
+            "feedsId": "AP0049",
+            "usableAreas": [
+              70
+            ],
+            "description": "Camboim Imoveis Aluga excelente Apartamento no melhor do Recreio. BRT, Supermercados, comercio tudo ao seu alcance. 5 minutos da Praia. Rua cheia de charme. 1 locação! Lazer completo, uma graça! 2 quartos ( 1 suíte), varanda Gourmet Armários na cozinha e banheiros. Ligue e agende sua visita: / creci 60057 - 18/09/2018",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Camboim Imoveis Aluga no You Design Residence Recreio",
+            "createdAt": "2018-07-03T18:22:33.073Z",
+            "publisherId": 190161,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "buglione.cris@gmail.com",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "02134963681",
+                "021995403179"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1038353603",
+            "parkingSpaces": [
+              1
+            ],
+            "updatedAt": "2018-09-19T00:42:49.295Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/350345265248135697122136ca30cddc.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/25a380a7450396232dfa757f77068476.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0e89832f5f21803b6764e458af4c6496.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/c923e4f811c6fc0e040f8690c59b17e0.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/9e0cdf17d426dbe7a622cc735d0a9dee.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/8bf1c943b0a4d76689584d786d2d26af.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/941f4ecb8a34c3a7d5e755d8471671d1.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/3c8c5ff159c46d476905a51a176d8755.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/df7b362fa174e9c44b1926d0995281e4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6af34305f34c7471c6d8d208934de568.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/8d84e6a0a307ed1f7564f5ccb1cfcb60.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d2abdc81e680bbe926f4a9a7a8b9b26e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/18f00d90ae7b1622e31507ec9304c6fc.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/01731e0c6a90d937a18fd48ba615fb5a.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/27baf6b8ac9d3c7f553ed46877bc8976.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2bb3a38090c732c788395d6aad59f95f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/369e8379886a7b0d57f882a48cc1e152.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/70d10bcba514d47a80456939545b594a.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/542700d110c6ee16e1515ce75cd8daad.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d961a944fc7771c5c08d33f3cc676fc4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f12deee0743d53e59d2249397d90bdeb.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/473d8cde7ecd7a317d97cfcdcdb3132a.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/75142e675e6bbcbf5988c451767182b5.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/bf2e3dc98d5ad4effd6e0b61d0dcac81.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/60552b1bc3047aa320a28cce12b73046.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6602443ed4454256dcaf89d0abaa44fc.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2bf63daca9fdd15d7e3e3d551a21a2f9.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/71aad45d61f24fa0a38fa96c918b727b.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/5450e02aab3515ff63f8ea17032e6e40.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/bb790db4c937bd371cc8cf8fd1d6d573.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/053e5d23ed05ee27f0082b8ef1902de1.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0277b103e24fa3f27cc70665cebd4fc5.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/16322559f97a9915c0d33c61fa0b075c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/eaa741625115e030e1d732168381e967.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/502ba19c33e605bda24a55c3d0c67745.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "Rio de Janeiro",
+              "city": "Rio de Janeiro",
+              "neighborhood": "Recreio Dos Bandeirantes",
+              "street": "Rua Doze",
+              "unitNumber": "",
+              "zipCode": "22795305",
+              "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+              "zone": "Zona Oeste",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -23.005809,
+                  "lon": -43.443212
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              1
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "AP0049",
+            "bathrooms": [
+              2
+            ],
+            "totalAreas": [
+              70
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              2
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "period": "MONTHLY",
+                "yearlyIptu": "100",
+                "price": "1800",
+                "rentalTotalPrice": "2400",
+                "businessType": "RENTAL",
+                "monthlyCondoFee": "600"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "STREET"
+          },
+          "publisher": {
+            "id": "190161",
+            "name": "CRISTINA CAMBOIM BUGLIONE 51620022915",
+            "address": {
+              "country": "BR",
+              "zipCode": "22753-212",
+              "city": "Rio de Janeiro",
+              "streetNumber": "",
+              "zone": "",
+              "street": "Est de Jacarepaguá",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "RJ",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "021995403179",
+              "alternative": "",
+              "primary": "02134963681"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1cb0669a9ea2b13c6808e0e53b3b664b.jpg",
+            "licenseNumber": "060057-F-RJ",
+            "websiteUrl": "http://www.camboimimoveis.com",
+            "leadEmails": [
+              "buglione.cris@gmail.com"
+            ],
+            "createdDate": "2017-11-24T18:53:39Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "1038353603",
+            "link": {
+              "name": "Apartamento com 2 Quartos para alugar, 70m²",
+              "href": "/imovel/apartamento-2-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-70m2-aluguel-RS1800-id-1038353603/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/190161/cristina-camboim-buglione-51620022915/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "NEAR_ACCESS_ROADS",
+              "NEAR_PUBLIC_TRANSPORT",
+              "NEAR_SHOPPING_CENTER",
+              "NEAR_SCHOOL",
+              "NEAR_HOSPITAL",
+              "BACKYARD",
+              "KITCHEN",
+              "SERVICE_AREA",
+              "GARAGE"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              70
+            ],
+            "description": "Casa geminada com 2 quartos, 01 vaga de garagem e 70 m² em Venda Nova. <br>Casa com excelente acabamento e com armários nos quartos e cozinha, além de toda decoração do imóvel já feita. Sala e cozinha em cerâmica e quartos com piso laminado e armários. Cozinha americana com armários e sala para dois ambientes com acabamento em gesso 3d e luminárias. Quartos com cortina e revestimento em papel de parede, muito bacana. Ampla área externa para pequenas reuniões em família. <br><br>Agende sua visita.<br><br>Corretor: Paulo Nogueira.",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Casa Geminada em Venda Nova, R$ 210 mil, 2 quartos e 70 m²",
+            "createdAt": "2018-05-21T17:13:03.460Z",
+            "publisherId": 143788,
+            "unitTypes": [
+              "HOME"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "031988287065",
+                "031996935752"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "95478665",
+            "parkingSpaces": [
+              1
+            ],
+            "updatedAt": "2018-06-29T14:58:28.677Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a94bfe670d5bd6dcab3b6d70e59edfeb.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/9b996ef5fdec03a6d627c29dc1bd28cf.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/9b40223f2f546b02375261bb4bbbc53d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/78a139539fa592287458c230161b3f85.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/463e7d4f2bbd928de8567f5c0f86aa12.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/b7e85708f4d4f3e31c672ff482995ffb.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/beb0d47d8b13cb37db1420dbc9f6de95.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1dcf89cdb67691fc6661559122d63a5c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d2495cbe1840c6dc32a413942a2ba137.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2e4874ab64cd4d60135baa207ee4e40f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0a804576540a9e95e144716d1cec47f1.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/22ead7b5b26636274d86761929b72ca8.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e2eb069579bbd79a9b0c87a405906690.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f1e91fd406410f4bcb9b4a869ce30e31.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "neighborhood": "Venda Nova",
+              "street": "Rua José Angelico de Barros",
+              "unitNumber": "",
+              "zipCode": "31748242",
+              "locationId": "BR>Minas Gerais>NULL>Belo Horizonte>Barrios>Venda Nova",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -19.797286,
+                  "lon": -43.932801
+                },
+                "precision": "RANGE_INTERPOLATED"
+              }
+            },
+            "suites": [
+              0
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "PN0013",
+            "bathrooms": [
+              1
+            ],
+            "totalAreas": [
+              0
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              2
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "price": "210000",
+                "businessType": "SALE"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "STREET"
+          },
+          "publisher": {
+            "id": "143788",
+            "name": "Paulo Vitor Nogueira Silva",
+            "address": {
+              "country": "BR",
+              "zipCode": "35730000",
+              "city": "Capim Branco",
+              "streetNumber": "",
+              "zone": "",
+              "street": "Rua Pedra Bonita, 43",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "MG",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "031996935752",
+              "alternative": "",
+              "primary": "031988287065"
+            },
+            "logoUrl": "",
+            "licenseNumber": "33670-F-MG",
+            "websiteUrl": "",
+            "leadEmails": [
+              "paulonogueira.consultor@gmail.com"
+            ],
+            "createdDate": "2017-02-09T18:52:44Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "95478665",
+            "link": {
+              "name": "Casa com 2 Quartos à venda, 70m²",
+              "href": "/imovel/casa-2-quartos-venda-nova-bairros-belo-horizonte-com-garagem-70m2-venda-RS210000-id-95478665/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/143788/paulo-vitor-nogueira-silva/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "ELEVATOR",
+              "PARTY_HALL",
+              "BALCONY",
+              "FURNISHED",
+              "NEAR_ACCESS_ROADS",
+              "NEAR_SHOPPING_CENTER",
+              "ALARM_SYSTEM",
+              "GATED_COMMUNITY",
+              "INTERCOM",
+              "SECURITY_24_HOURS"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              120
+            ],
+            "description": "O apartamento tem 120 metros quadrados está localizado no bairro Jatiúca com 3 quartos sendo 2 suítes e 3 banheiros. Fica a alguns minutos de farmácias, restaurantes, shoppings, padarias, universidades, hospitais e escolas.<br>Tem salão para festas e eventos.<br><br>Além disso, segurança 24 horas e sistema de alarme para você e sua família.<br>Já está com os móveis.<br>Elevador para mais praticidade no dia-a-dia.<br>Encontra-se na privacidade de um condomínio fechado.",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Apartamento para venda. Com 120 m² em 3 quartos na 1QD da praia de Jatiúca - Maceió - AL.",
+            "createdAt": "2018-08-26T00:48:10.459Z",
+            "publisherId": 103698,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "082988219737",
+                "082988219737"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1040425576",
+            "parkingSpaces": [
+              2
+            ],
+            "updatedAt": "2018-09-10T16:28:59.737Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/81882391452665421bd137b72c49d2b8.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a8eaf2ecd6370c32d40144daf68f5cc7.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4604f33030982f2b7cfbec185962d96a.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/5dd430577cc9a24559695734facdf962.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1f6d49c5769a1d8895e71d062aca44ed.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e1459e149d3dd670673c93cb6cae4413.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/c86198773bfe2cf8477cd0b7c2f0bdf8.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/8d6b5705e60c3e972fb2b8344e96c957.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e92cd05ed001ac11c50b0eff41052390.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/04808c9f6b62e09316013572c3dc3d0f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/216bfb6e895dc8b1c0bc732e31e0708f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1630e7eb772d851d7295d250b00b9ad0.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/8e8f3ba68558b52ac882ee36d232179d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/082603641dcf5125a34ed914118b9a87.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/83c656badf4b0805f63b5a3c5a8f53e0.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/371d369167bf8ad41e7c0c8e98b5e4aa.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/3b209d3ed2e461c50a84558713de40aa.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2bbee5f11c93ae335573ab36f0bb9c97.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1c70b844eba035a73a0759930b16d20b.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "neighborhood": "Jatiúca",
+              "street": "Rua General Newton de Andrade Cavalcante",
+              "streetNumber": "0",
+              "unitNumber": "",
+              "zipCode": "57036580",
+              "locationId": "BR>Alagoas>NULL>Maceio>Barrios>Jatiuca",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -9.647268,
+                  "lon": -35.70109
+                },
+                "precision": "GEOMETRIC_CENTER"
+              }
+            },
+            "suites": [
+              2
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "151c3e",
+            "bathrooms": [
+              3
+            ],
+            "totalAreas": [
+              120
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              3
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "yearlyIptu": "0",
+                "price": "380000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "500"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "103698",
+            "name": "FERREIRA CONSULTORIA IMOBILIARIA LTDA - ME",
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "082988219737",
+              "alternative": "",
+              "primary": "082988219737"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/c5553e55725fee9d8cbb191be612758a.jpg",
+            "licenseNumber": "1874-F-AL",
+            "websiteUrl": "",
+            "leadEmails": [
+              "adamoferreira@hotmail.com"
+            ],
+            "createdDate": "2015-12-07T16:08:57Z",
+            "showAddress": false
+          },
+          "url": {
+            "id": "1040425576",
+            "link": {
+              "name": "Apartamento com 3 Quartos à venda, 120m²",
+              "href": "/imovel/apartamento-3-quartos-jatiuca-bairros-maceio-com-garagem-120m2-venda-RS380000-id-1040425576/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/103698/ferreira-consultoria-imobiliaria-ltda-me/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "NEAR_ACCESS_ROADS",
+              "NEAR_SHOPPING_CENTER",
+              "NEAR_SCHOOL",
+              "NEAR_PUBLIC_TRANSPORT",
+              "NEAR_HOSPITAL",
+              "BACKYARD",
+              "FULL_CABLING",
+              "INTERNET_ACCESS",
+              "GARAGE",
+              "KITCHEN",
+              "SERVICE_AREA",
+              "EXTERIOR_VIEW",
+              "ALARM_SYSTEM",
+              "GATED_COMMUNITY",
+              "INTERCOM",
+              "SECURITY_24_HOURS",
+              "SAFETY_CIRCUIT",
+              "WATCHMAN",
+              "MOUNTAIN_VIEW",
+              "REFLECTING_POOL",
+              "SPA",
+              "ESSENTIAL_PUBLIC_SERVICES",
+              "SAUNA",
+              "RECEPTION",
+              "YOUTH_GAME_ROOM",
+              "ADULT_GAME_ROOM",
+              "CINEMA",
+              "CHILDRENS_POOL",
+              "ADULT_POOL",
+              "GREEN_SPACE",
+              "HOME_CINEMA",
+              "TEEN_SPACE",
+              "SPORTS_COURT",
+              "POOL",
+              "PLAYGROUND",
+              "PARTY_HALL",
+              "GYM",
+              "GOURMET_SPACE",
+              "BARBECUE_GRILL",
+              "ELEVATOR",
+              "GARDEN",
+              "NUMBER_OF_FLOORS"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              65
+            ],
+            "description": "Condomínio com acesso à clube privativo na Praia do Recreio. Transporte para a estação do Metrô Jardim Oceânico, estação de BRT e Recreio Shopping.<br><br>Visite o empreendimento e faça sua proposta, Aprovamos junto à construtora e também o seu financiamento bancário.<br><br>ATENÇÃO: NÃO RESPONDEMOS POR E-MAIL.<br><br>CERTIFIQUE-SE QUE SEU Nº DE TELEFONE ESTEJA CORRETO PARA QUE POSSAMOS ENTRAR EM CONTATO.<br><br>ESTAMOS NO WHATSAPP.",
+            "listingType": "USED",
+            "videos": [],
+            "title": "APARTAMENTO 02 QUARTOS, COM 65m² Recreio",
+            "createdAt": "2018-08-22T22:38:16.863Z",
+            "publisherId": 354870,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "021988927978",
+                "021970468864"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1040295135",
+            "parkingSpaces": [
+              1
+            ],
+            "updatedAt": "2018-09-14T18:46:11.825Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f484030bb210e73a2a04c17ee5545004.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/fd1c36a0e5f985262eca610de313eff4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/117bb528b70f543eda42a634bd31c6a6.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/abbaa8eb518db8a31f6a6332b3ebb5be.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7598a178cb0844b9a667ef47e7f9c449.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a762a1c21d5b8d2555b806e634ae51ee.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/5f1c0cacd8cc8e58b0d5b6fed607a044.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ca8b4c5eda76328183b124ed55fe3594.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/9b592cad0ee85c46d6da0b8aa336d7e5.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/b7589e9974418cf1f28c88bdc23829d6.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/5a2d399159b09e9e0bf0fc3b36e2b9bc.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/33d777ca0ab62414955d474c9f970c80.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0176c7dfec62ac830da6b39d0bb59cee.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6056b399173cea8a99655f8e73f6b00d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/fbbf782601ae03f4e5444ff006f09b4c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/77eeb3e815eb8a6d2564e58da0607423.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/30abf852f578545a4371a1565f60a7fb.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/8209c6a68478d5674b26410316562106.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1b4a75d3c65e9387845265d77c7fb0da.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ab8136e070d483dc24685f9a05054202.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ce5ed7df9b006af665994f50849fac84.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/351de2e324ea266b61646124f95676c5.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6e88f929088f54cefabe3b1746026257.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/687cb4b13d17ddedb7038c1743639121.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a61f22a0b54f2b8eb7991d8d42ab8926.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/5264d5f89add95dfe3303b9cdf0db73d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e1932e9d236caff5f2d44910268fed93.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e8661db14694eb1afee33384b2dc683c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a6eb9b052100244b08e123e6f62146b7.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/86007655685acede7209f794bdc1fbc5.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7706605e46dab5de5dc7994bbfdc6792.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4baaf6e24e172998a31486c882813290.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0e1d08fcb18c1ae9ec371ce9447d499f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0b1d485c1c4f5bd106efe8957f2c1f01.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "Rio de Janeiro",
+              "city": "Rio de Janeiro",
+              "neighborhood": "Recreio Dos Bandeirantes",
+              "street": "Rua Nilton Santos",
+              "streetNumber": "1200",
+              "unitNumber": "",
+              "zipCode": "22790880",
+              "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+              "zone": "Zona Oeste",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -23.022519,
+                  "lon": -43.511917
+                },
+                "precision": "RANGE_INTERPOLATED"
+              }
+            },
+            "suites": [
+              1
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "Adriana-Ocean",
+            "bathrooms": [
+              2
+            ],
+            "totalAreas": [
+              65
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              2
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "yearlyIptu": "1000",
+                "price": "366000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "600"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "354870",
+            "name": "ADRIANA RIBEIRO",
+            "address": {
+              "country": "BR",
+              "zipCode": "22713-400",
+              "city": "Rio de Janeiro",
+              "streetNumber": "",
+              "zone": "",
+              "street": "Rua Santo Espeu",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "RJ",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "021970468864",
+              "alternative": "",
+              "primary": "021988927978"
+            },
+            "logoUrl": "",
+            "licenseNumber": "073382-F-RJ",
+            "websiteUrl": "",
+            "leadEmails": [],
+            "createdDate": "2018-05-29T18:54:23Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "1040295135",
+            "link": {
+              "name": "Apartamento com 2 Quartos à venda, 65m²",
+              "href": "/imovel/apartamento-2-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-65m2-venda-RS366000-id-1040295135/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/354870/adriana-ribeiro/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "NEAR_ACCESS_ROADS",
+              "ALARM_SYSTEM",
+              "GATED_COMMUNITY",
+              "INTERCOM",
+              "SECURITY_24_HOURS",
+              "SAFETY_CIRCUIT",
+              "WATCHMAN",
+              "PARTY_HALL",
+              "SPORTS_COURT",
+              "POOL",
+              "GREEN_SPACE",
+              "ADULT_GAME_ROOM",
+              "RECEPTION",
+              "PLAYGROUND"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              727
+            ],
+            "description": "Excelente lote de 727m2 no Condomínio Fechado Altos de São Roque / Alto Padrão / localizado a apenas 30 minutos de São Paulo, em localização privilegiada, no km 52 da Rodovia Raposo Tavares, com acesso a 200 metros da Rodovia - a 20 minutos do Rodoanel e 08 minutos do centro de São Roque / lote 13-B de esquina - quadra A. <br>Área Verde – 1. 475, 58m² / Área Institucional – 9. 650, 55m² /Cinturão de Mata Atlântica que envolve o Altos de São Roque. <br>Pronto para construir / ruas asfaltadas e arborizadas / tráfego de veículo organizado com rotatórias ao final de cada rua / infraestrutura de saneamento dimensionada para suportar uma vazão muito maior do que a demanda do empreendimento / lazer completo / Tranquilidade! Linda Vista!",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Lote 727m2 em condomínio fechado - São Roque - SP",
+            "createdAt": "2018-05-24T14:20:21.233Z",
+            "publisherId": 121103,
+            "unitTypes": [
+              "RESIDENTIAL_ALLOTMENT_LAND"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "01136612565",
+                "011997355810"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1037195513",
+            "parkingSpaces": [
+              0
+            ],
+            "updatedAt": "2018-07-28T16:46:04.503Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/37f229256f53e1801f6ae720fc60cabe.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1b93b820ceecb1cdc130ad01890cf097.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6f086110c69df464ece33f6be6d7ba25.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0525788b6a4b3517c890b14a0b6972fd.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/215a235d31976cc57eaa54922e886168.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/af08ab6ea57750ab4858c48adea5634c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1f48745d6872a43a4710277647e4af94.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/afb2f5c0cc6ba3e103363c3bf132467a.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/149f56427eb8aaf7236fe851952f9534.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/397c7a3bcfb7431692b47310803d7aab.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2dc685c0ba6f12e38e3dd9bacc29245e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/cc7e7d74e3e5ccf717510cbe19264d0c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/abde532f135cd5cb77a07161bcc5bf36.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/5e44580271146b787078410efe66f769.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2fa1be08915066b7cbeb7178cbec4fc0.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "São Paulo",
+              "city": "São Roque",
+              "neighborhood": "Taipas de Pedra",
+              "street": "Rodovia Raposo Tavares",
+              "streetNumber": "",
+              "unitNumber": "",
+              "zipCode": "18143200",
+              "locationId": "BR>Sao Paulo>NULL>Sao Roque>Barrios>Taipas de Pedra",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -23.5865,
+                  "lon": -47.046163
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              0
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "958",
+            "bathrooms": [
+              0
+            ],
+            "totalAreas": [
+              727
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              0
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "yearlyIptu": "35",
+                "price": "150000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "400"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "121103",
+            "name": "NANCI RHORMENS",
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "011997355810",
+              "alternative": "",
+              "primary": "01136612565"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0202ff0d3378979c7196b2cf423327a0.jpg",
+            "licenseNumber": "67533-F-SP",
+            "websiteUrl": "",
+            "leadEmails": [],
+            "createdDate": "2016-09-19T21:46:50Z",
+            "showAddress": false
+          },
+          "url": {
+            "id": "1037195513",
+            "link": {
+              "name": "Lote/Terreno à venda, 727m²",
+              "href": "/imovel/lote-terreno-taipas-de-pedra-bairros-sao-roque-727m2-venda-RS150000-id-1037195513/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/121103/nanci-rhormens/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "NEAR_SHOPPING_CENTER",
+              "NEAR_ACCESS_ROADS",
+              "NEAR_PUBLIC_TRANSPORT",
+              "NEAR_HOSPITAL",
+              "BALCONY",
+              "FURNISHED",
+              "FULL_CABLING",
+              "CABLE_TV",
+              "INTERNET_ACCESS",
+              "GARAGE",
+              "LAUNDRY",
+              "KITCHEN",
+              "SERVICE_AREA",
+              "EXTERIOR_VIEW",
+              "ELEVATOR",
+              "INTERCOM",
+              "SECURITY_24_HOURS",
+              "SAFETY_CIRCUIT",
+              "WATCHMAN"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              71
+            ],
+            "description": "O apartamento de 71 metros quadrados está localizado no Centro de Indaiatuba com 2 quartos sendo 1 suíte e 2 banheiros, 2 vagas de garagem. A apenas alguns instantes de padarias, hospitais, escolas, farmácias, shoppings, restaurantes, transporte coletivo. Excelente localização. Valor do aluguel já incluso condomínio e IPTU<br>Tem varanda.<br><br>Além disso vigilância 24 horas para você e sua família.<br>Já está com os móveis.<br>Elevador para mais praticidade no dia-a-dia.",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Alugo apartamento mobiliado 2 quartos sendo 1 suíte, 2 vagas garagem, Centro - Indaiatuba - SP.",
+            "createdAt": "2018-07-04T14:23:40.937Z",
+            "publisherId": 364752,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "019994888118",
+                "019994888118"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1038392207",
+            "parkingSpaces": [
+              2
+            ],
+            "updatedAt": "2018-07-13T15:20:59.772Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/53f917e2f582d56c97e5de2782e44c5d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1134bc421e32af6a278c4fa4700da1ae.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/857d91664c2d9ebe208d7eccd1a6149e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/eb622f251075e2324013511ec53bb6a4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/55aaf946f6c864dff022dc62c67708a1.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7a1834e4a78da29f837d47fb93032604.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e639851a2303d00011c32702519f6283.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/04efbec186e573df062e6f6c7ad01f35.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ca1a007e3b3cbe43f877381082f74834.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/18853c1ed50e2e092d77e1ffd852f3e6.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6a6b2912f60773d18ad0bf57855e7579.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/8f4acce10c4e42498bb49255a89251e0.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/00fdd2e090d5c98a590e15c8fb56c8d3.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f4cc0c4ad2c2b6c4474a532435147edc.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/c22d0dec6fed5723b7e3a50093f2ae12.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/690d7311c8cdb5ad4ab189842638eab4.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "São Paulo",
+              "city": "Indaiatuba",
+              "neighborhood": "JARDIM ROSSIGNATTI",
+              "street": "Rua Tuiuti",
+              "streetNumber": "373",
+              "unitNumber": "",
+              "zipCode": "13339010",
+              "locationId": "BR>Sao Paulo>NULL>Indaiatuba>Barrios>JARDIM ROSSIGNATTI",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -23.087583,
+                  "lon": -47.210612
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              1
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "0001",
+            "bathrooms": [
+              2
+            ],
+            "totalAreas": [
+              93
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              2
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "period": "MONTHLY",
+                "price": "1500",
+                "rentalTotalPrice": "1500",
+                "businessType": "RENTAL"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "364752",
+            "name": "JOÃO LUIZ corretor de imóveis",
+            "address": {
+              "country": "BR",
+              "zipCode": "13334-360",
+              "city": "Indaiatuba",
+              "streetNumber": "",
+              "zone": "",
+              "street": "Rua Sergipe",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "SP",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "019994888118",
+              "alternative": "",
+              "primary": "019994888118"
+            },
+            "logoUrl": "",
+            "licenseNumber": "000.000-F-SP",
+            "websiteUrl": "",
+            "leadEmails": [],
+            "createdDate": "2018-06-29T19:00:36Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "1038392207",
+            "link": {
+              "name": "Apartamento com 2 Quartos para alugar, 71m²",
+              "href": "/imovel/apartamento-2-quartos-jardim-rossignatti-bairros-indaiatuba-com-garagem-71m2-aluguel-RS1500-id-1038392207/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/364752/joao-luiz-corretor-de-imoveis/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "NEAR_ACCESS_ROADS",
+              "NEAR_PUBLIC_TRANSPORT",
+              "NEAR_SCHOOL",
+              "BACKYARD",
+              "INTERNET_ACCESS"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              54
+            ],
+            "description": "Referência w0697<br>MAIS UM LANÇAMENTO DE CASAS NOVAS NO BAIRRO SÃO DIMAS EM COLOMBO – PR.<br>Condomínio com 05 unidades de Casas novas…<br>Contendo Apenas 02 unidades disponíveis,<br>Casas com 03 dormitórios,<br>sala de estar, cozinha, banheiro, lavanderia<br>e uma vaga de Garagem.<br>Excelentes Acabamentos: Janelas em Alumínio,<br>Piso Cerâmico em todos os Ambientes.<br>Em Excelente localização no Bairro “São Dimas”, Colombo – PR,<br>próximo de Escolas, Creches, linha de ônibus, Supermercados, comercio em geral.<br><br>CASAS;<br>• Sala<br>• Cozinha<br>• Lavanderia<br>• Banheiro<br>• 3 Dormitórios<br>• Vaga de Garagem<br><br>• CASA nº 02<br>Área Construída de 54,96m²<br>Área de Terreno de 150,94m²<br>Valor R$ 159.900,00<br><br>• CASA nº 04<br>Área Construída de 54,96m²<br>Área de Terreno de 185,19m²<br>Valor R$ 164.900,00<br><br>• IMÓVEL NOVO, EM ÓTIMA LOCALIZAÇÃO,<br><br>Imóvel permite financiamento.<br>Aproveite use seu FGTS.<br>Agende já uma visita com um de nossos corretores <br>Mais informações, ligue: //<br><br>• Os preços e condições de pagamento são orientativos e poderão sofrer alterações eventualmente,<br>não refletindo às condições de pagamentos vigentes.<br>A unidade apresentada poderá também não estar mais disponível para venda.<br>Consulte o corretor para obter informações atualizadas.<br><br>Venha Conferir, e Faça um Bom Negócio.<br><br>W Batistel Imóveis Segurança e tranquilidade do Início ao Fim!!!",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Excelentes Casas Novas no Bairro São Dimas em Colombo PR.",
+            "createdAt": "2018-04-27T20:21:58.981Z",
+            "publisherId": 180799,
+            "unitTypes": [
+              "HOME"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "04130377500",
+                "041999506500"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "94901586",
+            "parkingSpaces": [
+              1
+            ],
+            "updatedAt": "2018-08-17T13:00:38.262Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e78b184d6094643e2362c40bbbd9b6fb.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e5b2413ca13d4774de37845a3f8ddad4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/5e2e53af05107f90f0a491c4f49f7b54.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/07c8012f7fb9421a4e7c87e84475f4ab.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/bf56c6d50f7da784084bddb8af2b6550.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7ac87d4939f8483232ade0ccc2201d2e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d4440af1ed0b6ecd92a3b0b8bbcb1c62.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d7d528a21bf54292e6e1e9b9d0f69f17.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a29f597d6c1295ef3ebbfdb437c0a091.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/481674a98906577d662bb816ccbe71cb.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/501b60e7947821687ccf2eb8e83d2e3e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/df040c9bac49950bc1abcae67adf0e6f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/60a0038eb50af8ad2bad4873f6b4bed1.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/c7218c9016ef9bbb84e98cd20cfac5cc.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7f054211a2ccc8b8ddb8708e1bdd48c0.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/60076ee6d144092240d9e711abde3ade.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/84baa30f57c547675d837232550e236c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4d2ccdae9d115d11e44d7d1ddb67f50f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e7454ae497e973c95aa1f64eed5efb3d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4709ed9e0fae8491af7464cc5a04e2ce.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/8e5cde8df135dafd7fc231adb0862029.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/28f93b967651891f5ec3511df2468c44.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e9fef9ee69d29623ec32a6943b45fe7f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/452e2132ca8145fa81287017002ee8c4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2a1ca3b59305f96c7ead6b43e4cd1a2d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/aa1ff5f3a8b6a1374c992e172bb971d4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a46c44d9d1a7639aa846441cb1980169.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ea93050f2604c3f90a65a9773ff0dccd.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a61350763173a500d753ab68665d8ef1.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7d529a25771d152d8645b112777a988b.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/67cae298f903bc9121e76c3436baeddd.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a7ad7874b70821dc6c3e1ea7e31dd74a.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f8efb819728b3bc05ef8c4867ba557f4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6b6e56496c5fffd8b57c8d47c9e234ba.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1de40b47694c70fade3328233f917868.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/8bbc7d301c27ad0e02738337c82e856a.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/fd47a53ba1696f440a640b037d512370.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6f381bdb3d7b8f1d4dbaa342a55a540e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/064e2a9e811adea2f63885a38c3c1303.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/19db24416f83ab4b3de4c8afc0626ff5.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1c39a40257fe154b548365fd612bef7b.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/9ce848c856a55bed3057dc1751d84e4f.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "Paraná",
+              "city": "Colombo",
+              "neighborhood": "São Dimas",
+              "street": "Rua Marcos Cardoso",
+              "streetNumber": "1466",
+              "unitNumber": "",
+              "zipCode": "83411190",
+              "locationId": "BR>Parana>NULL>Colombo>Barrios>Sao Dimas",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -25.333838,
+                  "lon": -49.147605
+                },
+                "precision": "RANGE_INTERPOLATED"
+              }
+            },
+            "suites": [
+              0
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "w0697",
+            "bathrooms": [
+              1
+            ],
+            "totalAreas": [
+              150
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              3
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "yearlyIptu": "0",
+                "price": "159900",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "180799",
+            "name": "W BATISTEL IMOVEIS LTDA - ME",
+            "address": {
+              "country": "BR",
+              "zipCode": "",
+              "city": "",
+              "streetNumber": "",
+              "zone": "",
+              "street": "",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "041999506500",
+              "alternative": "",
+              "primary": "04130377500"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f88b05b4b8ae008f0f54a47f0aebb3ec.jpg",
+            "licenseNumber": "06127-J-PR",
+            "websiteUrl": "http://www.wbatistel.com.br",
+            "leadEmails": [
+              "contato@wbatistel.com.br"
+            ],
+            "createdDate": "2017-10-16T11:48:03Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "94901586",
+            "link": {
+              "name": "Casa com 3 Quartos à venda, 54m²",
+              "href": "/imovel/casa-3-quartos-sao-dimas-bairros-colombo-com-garagem-54m2-venda-RS159900-id-94901586/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/180799/w-batistel-imoveis-ltda-me/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "PLAYGROUND_2"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              80
+            ],
+            "description": "Apartamento amplo, a cem metros da praia de Jd. de Alá, próximo a supermercados, farmácias, escolas, padarias, transporte público e outras conveniências. São dois quartos, reversível para três; três sanitários - um na suíte, um social com lavabo e um de empregada; sala em \"L\"; varanda; cozinha ampla e área de serviço. Uma vaga de garagem coberta e solta. Além disso, o apartamento possui armários na cozinha, porcelanato rústico nas áreas sociais e quartos, blindex e espelhos em dois banheiros. O prédio conta com salão de festas, portaria 24 horas, circuito interno de TV, automação nos portões, WI-FI nas áreas sociais. Segundo andar de ESCADA. Morada tranquila e agradável. Prédio familiar e vizinhança tranquila. Contato direto com a proprietária: .",
+            "listingType": "USED",
+            "videos": [],
+            "title": "SALVADOR - Apartamento Padrão - COSTA AZUL",
+            "createdAt": "2018-08-02T05:24:37.436Z",
+            "publisherId": 378502,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "378502-owner",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "071987911339",
+                ""
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1039275126",
+            "parkingSpaces": [
+              1
+            ],
+            "owner": true,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d1164ce0fec500b4ca0484afcb4eb0c1.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1c53bad440e36f0017dc512d88b21a5d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/43b5ed7aa7f4b22b32719b05bfcd92f6.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/88408f8b2ef03e5eb84e4084649b6a4c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/b5443ddfabd7040c04114ab0518cc9bb.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/880eee323118d26d3298e5917416a7a2.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d9c024b82243bc2ad3f38bfd6e1b8873.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/b94be236924a89f69a1ecbbc06054e21.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f80298a38a94079294bf5b91c5212972.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/901b6f7b206256438ed635339194cf4d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/9b051bc95290b29b08ac60618dbe51dd.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d8838ba2175cc5f27ea958e5a955b174.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ed8d0f8dc9bfa2f065fae8bc02437a77.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d276cd16d0ad48ef64ce3a73d9e94cfb.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/40fb31afda4c9b7362a301b626eef340.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/23eed3e3c28cd53a13ab8e68ec93c6d4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/321aae04a0107a39368495bcf1021aad.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/78de49e643996956869d6b4c56a08e05.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/66164dfee75e4cc96f0e9a930de5c32f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/b700fed1825f007f143e35cb4d3b406c.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "Bahia",
+              "city": "Salvador",
+              "neighborhood": "Costa Azul",
+              "street": "Rua Professor Isaías Alves de Almeida",
+              "unitNumber": "",
+              "zipCode": "41760120",
+              "locationId": "BR>Bahia>NULL>Salvador>Barrios>Costa Azul",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -12.994919,
+                  "lon": -38.443134
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              1
+            ],
+            "publicationType": "PREMIUM_FEED",
+            "externalId": "19396851",
+            "bathrooms": [
+              3
+            ],
+            "totalAreas": [
+              80
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              3
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "price": "270000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "600"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "STREET"
+          },
+          "publisher": {
+            "id": "378502",
+            "name": "ALINE CELESTE GOMES BRITO",
+            "address": {
+              "country": "BR",
+              "zipCode": "",
+              "city": "",
+              "streetNumber": "",
+              "zone": "",
+              "street": "",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "",
+              "alternative": "",
+              "primary": "071987911339"
+            },
+            "logoUrl": "",
+            "licenseNumber": "",
+            "websiteUrl": "",
+            "leadEmails": [
+              "alinegobri@gmail.com"
+            ],
+            "createdDate": "2018-08-01T22:11:58Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "1039275126",
+            "link": {
+              "name": "Apartamento com 3 Quartos à venda, 80m²",
+              "href": "/imovel/apartamento-3-quartos-costa-azul-bairros-salvador-com-garagem-80m2-venda-RS270000-id-1039275126/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/378502/aline-celeste-gomes-brito/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "NEAR_ACCESS_ROADS",
+              "NEAR_PUBLIC_TRANSPORT",
+              "NEAR_SCHOOL",
+              "NEAR_HOSPITAL",
+              "BALCONY",
+              "FURNISHED",
+              "FULL_CABLING",
+              "GARAGE",
+              "KITCHEN",
+              "SERVICE_AREA",
+              "BARBECUE_GRILL",
+              "ELEVATOR",
+              "PARTY_HALL",
+              "PLAYGROUND",
+              "ELECTRIC_GENERATOR",
+              "NUMBER_OF_FLOORS",
+              "ADULT_GAME_ROOM",
+              "GATED_COMMUNITY",
+              "INTERCOM",
+              "SAFETY_CIRCUIT"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              103
+            ],
+            "description": "Localização excelente.<br>Próximo a escolas, bancos, posto de saúde...<br>Andar alto...face norte !<br>103 Mts<br>3 dormitórios sendo 1 suíte<br>Sacada<br>Sala 2 ambientes<br>Cozinha com ilha <br>Area de serviço <br>Lavabo<br>Apto com todos os móveis planejados Difratelli, piso de madeira e granito, 2 vagas de garagem demarcadas.<br>Sistema de aquecimento central do próprio prédio com água aquecida no apto.<br><br>Informações e visitas :<br><br>Elenice<br>Consultora Imobiliária<br>Creci : 121276<br>Fone :",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Apto a venda no Bairro Barcelona - 3 dormts sendo 1 suíte - 2 vagas de garagem - Semi mobiliado",
+            "createdAt": "2018-08-24T20:51:38.240Z",
+            "publisherId": 136482,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "011971576619",
+                "011975746540"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1040381748",
+            "parkingSpaces": [
+              2
+            ],
+            "updatedAt": "2018-09-18T00:37:28.449Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/fc1c455a1b09de6a9cabf7c394bf2726.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/b5ac4f4ccf9b0b0552c71bd01c02a248.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/52cece078793d18389ef063ddde73c73.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/3fc8fcdcd59aece408753797b175846c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6d721fc095fe48719b7f0e606700aa32.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/c6f966f6ac4d73b968fbcef5bc0e46f3.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0c54e1103f06bdd73c86e027d589c10c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/606d1f2b270a7da296d94d8ee30723e2.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2ff0d28c9f037ffd8efc6e3823716273.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/40e1c334e995d94130cd1f80fa12317f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7c2e87a5cef69232bda95f01d363398f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/853c0b3bf171bb5c4ce288383dbe269d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/cc0dbd2b38b9b4396d768e6f66a1bf34.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2080215ca8774254629b4112f24d8090.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/273120a25150cdcaf2d865f305832739.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/bc2b707ec6e65961bf4bd22931b91dcb.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/12143c35ba4be109a47a425fb2dfda6c.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "São Paulo",
+              "city": "São Caetano do Sul",
+              "neighborhood": "Barcelona",
+              "street": "Rua Flórida",
+              "streetNumber": "321",
+              "unitNumber": "",
+              "zipCode": "09550051",
+              "locationId": "BR>Sao Paulo>NULL>Sao Caetano do Sul>Barrios>Barcelona",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -23.619965,
+                  "lon": -46.554845
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              1
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "aptoserg",
+            "bathrooms": [
+              2
+            ],
+            "totalAreas": [
+              0
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              3
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "yearlyIptu": "190",
+                "price": "540000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "820"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "136482",
+            "name": "Elenice de Almeida Carmo",
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "011975746540",
+              "alternative": "",
+              "primary": "011971576619"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6c3e226b4d4795d518ab341b0824ec29.jpg",
+            "licenseNumber": "121276-F-SP",
+            "websiteUrl": "",
+            "leadEmails": [
+              "elenice.delforteiprice@gmail.com"
+            ],
+            "createdDate": "2017-03-03T16:44:47Z",
+            "showAddress": false
+          },
+          "url": {
+            "id": "1040381748",
+            "link": {
+              "name": "Apartamento com 3 Quartos à venda, 103m²",
+              "href": "/imovel/apartamento-3-quartos-barcelona-bairros-sao-caetano-do-sul-com-garagem-103m2-venda-RS540000-id-1040381748/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/136482/elenice-de-almeida-carmo/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "BARBECUE_GRILL",
+              "POOL",
+              "BALCONY",
+              "PLAYGROUND_2",
+              "SPORTS_COURT",
+              "GYM"
+            ],
+            "feedsId": "19364279",
+            "usableAreas": [
+              60
+            ],
+            "description": "Lindo apartamento com fino acabamento!!! Direto com o proprietário! Apartamento a venda no Jardim Nova Europa, Campinas, 2 dormitórios, sendo 1 suíte, 1 sala, 2 banheiros, 1 vaga, 58 m2 útil.] No melhor condomínio da região, sol da manhã com sacada, cozinha plajedada com cooktop, forno embutido, area de serviço com armario, acabamento em gesso, pia de marmore no banheiro e armarios novos embutidos nos quartos. Area comum com brinquedoteca, churrasqueira, academia, piscina, quadra poliesportiva, salçao de festas e salão de jogos. Apartamento alugado. Pode entrar em 30 dias ou deixar para renda. Aluguel R$ 1.150/mes.",
+            "listingType": "USED",
+            "videos": [],
+            "title": "CAMPINAS - Apartamento Padrão - JD NV EUROPA",
+            "createdAt": "2018-08-01T14:07:27.646Z",
+            "publisherId": 378148,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "378148-owner",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "011989331110",
+                ""
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1039190669",
+            "parkingSpaces": [
+              1
+            ],
+            "updatedAt": "2018-09-07T04:27:06.008Z",
+            "owner": true,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/183e617219a8087e6785e923c914e082.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4bb9d6df419ef7b74e9657dc13957bf4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/502054695d6ad36d7f025faf55b920ca.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7dc833ef862cee806b13fb386222bc69.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/5ba3b475726ea638c250aa88bd6e1dd3.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/23c30e3f047b9436934222ab1c21c1ea.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f3ca2f39f4388edf0d92229e04093d13.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/701d36be624a8f0f341a9fea507c0a0d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0de70e85db5d36f55d5b215b0e8d785e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2db230d0c5d2f288ce0bd2db08f150c4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ffffeeffa61503bc7bd477213e904664.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/dafead41e25e90d7569abf9f95cf6f49.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a1d6f13feb0ec563a86d8d8bf5797b10.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/495325c6d3d62b93c58215cc9b2a3176.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/556f0b7e436c72dc76e2c86f928da419.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e8f73ce1ac95263963e164f23af4e2df.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f14377c1b16a43d5e5851d0aa2ff8c37.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4654da199aef004a8992722296fb89c4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/957abd479cbdd7a9e9067dfda3f7f16d.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "São Paulo",
+              "city": "Campinas",
+              "neighborhood": "Jardim Nova Europa",
+              "street": "Rua Santa Rita do Passa Quatro",
+              "unitNumber": "",
+              "zipCode": "13040108",
+              "locationId": "BR>Sao Paulo>NULL>Campinas>Barrios>Jardim Nova Europa",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -22.930342,
+                  "lon": -47.060244
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              1
+            ],
+            "publicationType": "PREMIUM_FEED",
+            "externalId": "19364279",
+            "bathrooms": [
+              2
+            ],
+            "totalAreas": [
+              60
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              2
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "yearlyIptu": "0",
+                "price": "250000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "290"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "STREET"
+          },
+          "publisher": {
+            "id": "378148",
+            "name": "RODRIGO PALINI",
+            "address": {
+              "country": "BR",
+              "zipCode": "",
+              "city": "",
+              "streetNumber": "",
+              "zone": "",
+              "street": "",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "",
+              "alternative": "",
+              "primary": "011989331110"
+            },
+            "logoUrl": "",
+            "licenseNumber": "",
+            "websiteUrl": "",
+            "leadEmails": [
+              "rodrigo.palini@sovena.pt"
+            ],
+            "createdDate": "2018-07-31T04:39:43Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "1039190669",
+            "link": {
+              "name": "Apartamento com 2 Quartos à venda, 60m²",
+              "href": "/imovel/apartamento-2-quartos-jardim-nova-europa-bairros-campinas-com-garagem-60m2-venda-RS250000-id-1039190669/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/378148/rodrigo-palini/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "NEAR_ACCESS_ROADS",
+              "NEAR_SHOPPING_CENTER",
+              "NEAR_PUBLIC_TRANSPORT",
+              "BARBECUE_GRILL",
+              "NEAR_SCHOOL",
+              "GOURMET_SPACE",
+              "ELEVATOR",
+              "GYM",
+              "PARTY_HALL",
+              "PLAYGROUND",
+              "POOL",
+              "SPORTS_COURT",
+              "ADULT_GAME_ROOM",
+              "YOUTH_GAME_ROOM",
+              "SAUNA",
+              "GATED_COMMUNITY",
+              "SERVICE_AREA",
+              "KITCHEN",
+              "GARAGE",
+              "FURNISHED",
+              "BALCONY",
+              "EXTERIOR_VIEW"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              80
+            ],
+            "description": "Praticidade e conforto em um belo apartamento semi-mobiliado.<br><br>Por estar localizado no 16º andar, a luz natural e a bela vista da cidade fazem deste apartamento um local de energia única. Sua sala ampliada, com acesso à sacada com churrasqueira, é o ambiente perfeito para reunir amigos e familiares para um bom churrasco. <br><br>Todos os quartos possuem banheiros, o que traz mais conforto e praticidade para o seu dia a dia. Sua torre fica na face norte e você também contará com um depósito no subsolo e 2 vagas na garagem.<br><br>Buscando oferecer praticidade, este imóvel já possui os seguintes itens:<br>• Armários embutidos <br>• Rack na sala<br>• Cooktop<br>• Forno elétrico<br>• Refrigerador Electrolux<br>• Coifa<br>• Lava e seca Samsung 8,5kg<br>• Aquecedor a gás Electrolux<br>• Granito silestone<br>• Piso vinílico em todos ambientes<br><br>Além disso, você vai morar em um prédio novo e moderno, com infraestrutura completa, que permite você recarregar suas energias na hidro ou na piscina.<br><br>CONDOMÍNIO ECOLIFE TATUAPÉ<br><br>Possui uma localização excelente, tanto para quem usa carro, quanto para quem usa transporte público. Está a 15 min a pé da estação de metrô Tatuapé e próximo ao Carrefour da Avenida Salim Farah Maluf, com fácil acesso para a Marginal Tietê e Radial Leste. O Ecolife Tatuapé foi idealizado para proporcionar instalações modernas, belas, seguras e funcionais para seus moradores. <br><br>A área de lazer do Ecolife Tatuapé é composta por lazer completo com: atelier, piscina adulto e infantil, brinquedoteca, churrasqueira, home cinema, sala de estudo, salão de festas adulto, salão de festas infantil, academia, espaço gourmet, salão de jogos infantil e salão de jogos adulto. Sua implantação é realizada em ambientes agradáveis e espaçosos.<br><br>SOBRE O BAIRRO<br><br>O Tatuapé modernizou-se nas últimas décadas e hoje é um dos bairros mais desejados de São Paulo. Com uma excelente localização, há alternativas tanto de transporte, quanto de estudo, gastronomia, lazer e diversão. <br><br>Possui quatro bibliotecas municipais, grandes centros de compra, como Shopping Anália Franco, Shopping Metrô Tatuapé e o Boulevard Tatuapé, a tradicional doceria Di Cunto, restaurantes sofisticados e pontos históricos, como a agitada Praça Sílvio Romero.<br><br>O bairro também conta com diversas linhas de ônibus e, na parte inferior da estação do metrô Tatuapé existe um terminal de ônibus, que inclusive possui um ônibus intermunicipal que leva os passageiros até o aeroporto internacional de Guarulhos.<br><br>Uma excelente qualidade de vida dentro da zona urbana de São Paulo.",
+            "listingType": "USED",
+            "videos": [
+              "https://www.youtube.com/watch?v=9g_DumD1tRk"
+            ],
+            "title": "Apartamento para venda. Com 80 metros quadrados e 2 quartos em Tatuapé - São Paulo - SP.",
+            "createdAt": "2018-06-08T17:18:24.052Z",
+            "publisherId": 359459,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "011989748907",
+                "011989748907"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1037625335",
+            "parkingSpaces": [
+              2
+            ],
+            "updatedAt": "2018-09-13T17:18:10.641Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/b3332c01e75460828da8ec909b9fe104.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/3d83b421d6fd33192a0a11a17f1bdf7d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/dd2bc9074268b5c8ba9925f1989c9330.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/deb2cd8b54e6d230c3b86c63714c5574.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a14c54faa475ec47c19d6101475836a8.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/669a22c570abcd1c0bbe69d4c379fea8.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/75000b2f2a3f40017c277dccc77fce16.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/715c2c213eb410c2115d790745ca82de.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/cfea51301c902b0cea2fa6975dadcf48.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/eb560e8e929d91c730d4741772651549.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4a3a1a9b22a247a8fe6895e439d4dc76.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/88af5d21dde8a25917ffa54a0adafc51.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/07d818d9039c624973a9e1769d401f10.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/cf656b2b041b3a89e12c8307508d4e90.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/35ef274c6a48f9dc2da0cc9138200182.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7884f0bfe890351ca5d137e1d65836cb.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2dfcb8ac738ac7e6e470d783129fb448.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/14e8dcd29a395e3fa9474fb7b45e0272.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/3889056da804bb6bca25dac7eecfc72e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/b6203eb8897d1525afed16f5425b6206.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2d1a0623cca9452f40dfa0e0e79d336c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a396d85716626e7c71cfd308d48b7c76.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/b024890e8b41b64b72b4824e49906557.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/27b32bbc38fb67322705d1bc986139a3.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4de2bc03f4fcf1c445ab04470cc69155.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7e2285d220197f2cfcbc0425ea6f8938.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/82c6aaef30f2ecd294fff861ad6e0266.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/12d16860a60b44433e36b6d3f13c8c90.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d2139d0079aba7f76e6d21126773460e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d531f6e7104229cf298f511c0707b5a2.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6f00864b1f4c038df28d5df5baa47d19.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7baed8f753769bc75eb859a010e5c299.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/fa9cf4fb9f54c03d3dac9c88595a952f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/b2bdf1fe3c1d5dbb46d9be8ac96031cb.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a1995153b80e834fbd839403a1370c1d.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "São Paulo",
+              "city": "São Paulo",
+              "neighborhood": "Tatuapé",
+              "street": "Avenida Celso Garcia",
+              "streetNumber": "3200",
+              "unitNumber": "",
+              "zipCode": "03064000",
+              "locationId": "BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Tatuape",
+              "zone": "Zona Leste",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -23.535193,
+                  "lon": -46.581468
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              2
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "replace_3200",
+            "bathrooms": [
+              3
+            ],
+            "totalAreas": [
+              0
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              2
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "yearlyIptu": "1300",
+                "price": "545000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "520"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "359459",
+            "name": "Replace Investimentos Imobiliários",
+            "address": {
+              "country": "BR",
+              "zipCode": "01415000",
+              "city": "São Paulo",
+              "streetNumber": "",
+              "zone": "",
+              "street": "Rua Bela Cintra",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "SP",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "011989748907",
+              "alternative": "",
+              "primary": "011989748907"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0d7ceb2690e17440d89b5d1f570100b6.jpg",
+            "licenseNumber": "0000-J-SP",
+            "websiteUrl": "",
+            "leadEmails": [
+              "contato@replace.house",
+              "luiz.soares@grupozap.com"
+            ],
+            "createdDate": "2018-06-08T12:41:45Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "1037625335",
+            "link": {
+              "name": "Apartamento com 2 Quartos à venda, 80m²",
+              "href": "/imovel/apartamento-2-quartos-tatuape-zona-leste-sao-paulo-com-garagem-80m2-venda-RS545000-id-1037625335/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/359459/replace-investimentos-imobiliarios/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "NEAR_ACCESS_ROADS",
+              "NEAR_SHOPPING_CENTER",
+              "NEAR_PUBLIC_TRANSPORT",
+              "NEAR_SCHOOL",
+              "NEAR_HOSPITAL",
+              "FULL_CABLING",
+              "INTERNET_ACCESS",
+              "GARAGE",
+              "KITCHEN",
+              "SERVICE_AREA",
+              "BALCONY",
+              "ALARM_SYSTEM",
+              "GATED_COMMUNITY",
+              "INTERCOM",
+              "SECURITY_24_HOURS",
+              "SAFETY_CIRCUIT",
+              "WATCHMAN",
+              "GOURMET_BALCONY",
+              "MOUNTAIN_VIEW",
+              "REFLECTING_POOL",
+              "SPA",
+              "SAUNA",
+              "GARAGE_BAND",
+              "MASSAGE",
+              "YOUTH_GAME_ROOM",
+              "ADULT_GAME_ROOM",
+              "CHILDRENS_POOL",
+              "ADULT_POOL",
+              "GREEN_SPACE",
+              "TENNIS_COURT",
+              "TEEN_SPACE",
+              "SPORTS_COURT",
+              "POOL",
+              "PLAYGROUND",
+              "PARTY_HALL",
+              "GYM",
+              "GOURMET_SPACE",
+              "GARDEN",
+              "ELEVATOR",
+              "BARBECUE_GRILL"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              71
+            ],
+            "description": "Maui Unique Life Recreio dos Bandeirantes<br><br>Melhor planta de 2 quartos no Recreio.<br>Acabamento padrão Calçada.<br>Lazer completo e segurança 24 horas.<br>Bairro planejado! Venha conhecer o Pontal Oceânico.<br><br>Ligue e saiba mais.<br><br>WHATSAPP ONLINE",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Apartamentos com 2 quartos no Recreio - Ao lado da Praia",
+            "createdAt": "2018-04-04T02:22:36.147Z",
+            "publisherId": 283219,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "021986540055",
+                ""
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "94067262",
+            "parkingSpaces": [
+              1
+            ],
+            "updatedAt": "2018-07-18T03:02:43.901Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/69dee41d99347098eda8f210e1f258e8.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/270803225537f6a0a3bd6dc084823440.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/26945cb48ca023fe878b77ac9acd5582.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d030e222d2c49cfc2b29b4aac735fa13.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e921be5ceb39b25fd0b825073a4213fd.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/512755f055b2de74e157a0bc12b1861d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e8b8f0af9c151acdc4f115be5c42a08a.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/759e996c80927fd24403fbb7dcc2b5c7.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/50f797548c59368e68ceaaa0b42d0422.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1fc502a4c425bdb3f83eaa0bf88d3dff.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/96fcae73b8aeb8d16f02dcd0e555211c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e646e291be116eb78c145a7ae384faef.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/977c2fef976afe44cfddc9eedceef148.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a9cfcb0e15db5146cb789f5cf57d4355.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e6fc57505119099dc5f0ba8c0e6a7050.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/39de39c301adbda0c8d30c56d92e74a6.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/42744287d17f2d43ed96ddbf700dfd1d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f626e9f802ea4a47ef50896554caa1df.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/638962e6a4d5531c65ce93b55005bfce.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4af363d98b1e539c8619bf6ca03b7da1.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ef35295ae3fef06bdf9f5577c7721c08.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1b8768858f044a9d10d818715ae11aff.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/767b5c1e45f057b4a4d1a3800097fa39.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e54dc30d1593a865f865e1df2c6a2ca6.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/5bdaab5c7a13928deae34d04e49e0a9e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e4ec229551a9d269b11a52b3f34e64e6.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ddf5a082ca9f2bc6f0ad7c31d4f346a2.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7f3948d8a23ad028933d400830f52782.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/73af1891361b62bb43a53dbae2eb6404.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/9054a449b28c3835a400bb54fcb59bae.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "Rio de Janeiro",
+              "city": "Rio de Janeiro",
+              "neighborhood": "Recreio Dos Bandeirantes",
+              "street": "Rua Nilton Santos",
+              "streetNumber": "1850",
+              "unitNumber": "",
+              "zipCode": "22790880",
+              "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+              "zone": "Zona Oeste",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -23.022508,
+                  "lon": -43.511923
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              1
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "MAUI18",
+            "bathrooms": [
+              2
+            ],
+            "totalAreas": [
+              71
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              2
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "yearlyIptu": "100",
+                "price": "399000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "600"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "283219",
+            "name": "COMPRE DIRETO",
+            "address": {
+              "country": "BR",
+              "zipCode": "23545-390",
+              "city": "Rio de Janeiro",
+              "streetNumber": "",
+              "zone": "",
+              "street": "Rua Antonio Sales",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "RJ",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "",
+              "alternative": "",
+              "primary": "021986540055"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/706efa23fba609dafb13c8f8d96369ca.jpg",
+            "licenseNumber": "058781-F-RJ",
+            "websiteUrl": "",
+            "leadEmails": [],
+            "createdDate": "2018-03-06T13:09:22Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "94067262",
+            "link": {
+              "name": "Apartamento com 2 Quartos à venda, 71m²",
+              "href": "/imovel/apartamento-2-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-71m2-venda-RS399000-id-94067262/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/283219/compre-direto/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "PARTY_HALL",
+              "NEAR_ACCESS_ROADS",
+              "INTERCOM"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              42
+            ],
+            "description": "Apartamento de 42 m2 com 2 quartos, sala, cozinha, banheiro e área de serviços. Possui armários nos dormitórios, na cozinha e na área de serviços.<br>Ótima localização, ao lado a Universidade Brasil (antiga Unicastelo), há alguns minutos do Shopping e Metrô Itaquera e da estação Dom Bosco da CPTM.<br>Tem salão de festas.",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Apartamento para venda com 42 m2, 2 quartos e 1 vaga em Itaquera",
+            "createdAt": "2018-06-06T22:29:25.428Z",
+            "publisherId": 252268,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "011984341115",
+                "011997939463"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1037557924",
+            "parkingSpaces": [
+              1
+            ],
+            "updatedAt": "2018-08-16T19:21:04.512Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a9fb9025bea84b73477cf8f03a73a6f3.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2c0d21f715650be22d362460269f0ce8.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4633214ed18b4b97741fabc9b0c1d26f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7b0655d50ccda291bde56e821e39231f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/95504df13f57f41b301cd178c4898a6e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/31bdfcaa45efbc92f6d9459aace47ec7.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ae908d91ada3321277d86732ead8a53a.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/48200e912de5862355fc7ec161cac3d7.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/c015cb8c71c301b51f9089d69eaa7231.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ec3bcee88a610ff58e65135bf85ce66f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4aaba0a844ed84c9c9eb7a8142d6e82d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2e22d71ccd0d9875431ce9b17cbb6a47.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6951ed6cc20b00ec3b0b26f4d2a081af.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/fd7720736123ab28f388c0dcaf27f6b5.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6fc8a392551081fc4a8c856145e6478a.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/23a8c8b1cd0b1d6214754268670a46a9.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1692018fafe13c50940e5e1effdecb63.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ad44b4b032b50c10978178ccc6e0a8db.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/26fa0f853b522974d504f11f0fc80e2f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f1d6a35a42b0c23f1d9cc3e0c5a6f49e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/fff4d9a44a9ca543ac5ecf9fe53ffc36.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "São Paulo",
+              "city": "São Paulo",
+              "neighborhood": "Itaquera",
+              "street": "Rua Francisco Rodrigues Seckler",
+              "streetNumber": "333",
+              "unitNumber": "",
+              "zipCode": "08230020",
+              "locationId": "BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Itaquera",
+              "zone": "Zona Leste",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -23.529112,
+                  "lon": -46.454637
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              0
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "APV019",
+            "bathrooms": [
+              1
+            ],
+            "totalAreas": [
+              42
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              2
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "yearlyIptu": "0",
+                "price": "220000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "200"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "252268",
+            "name": "Luiz Carlos Rodrigues",
+            "address": {
+              "country": "BR",
+              "zipCode": "",
+              "city": "",
+              "streetNumber": "",
+              "zone": "",
+              "street": "",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "011997939463",
+              "alternative": "",
+              "primary": "011984341115"
+            },
+            "logoUrl": "",
+            "licenseNumber": "57314-F-SP",
+            "websiteUrl": "",
+            "leadEmails": [],
+            "createdDate": "2018-01-29T20:05:13Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "1037557924",
+            "link": {
+              "name": "Apartamento com 2 Quartos à venda, 42m²",
+              "href": "/imovel/apartamento-2-quartos-itaquera-zona-leste-sao-paulo-com-garagem-42m2-venda-RS220000-id-1037557924/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/252268/luiz-carlos-rodrigues/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "NEAR_ACCESS_ROADS",
+              "NEAR_PUBLIC_TRANSPORT",
+              "NEAR_SHOPPING_CENTER",
+              "NEAR_SCHOOL",
+              "NEAR_HOSPITAL",
+              "GATED_COMMUNITY",
+              "INTERCOM",
+              "SECURITY_24_HOURS",
+              "SAFETY_CIRCUIT",
+              "WATCHMAN"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              67
+            ],
+            "description": "Apartamento de 3 quartos sala para 2 ambientes em cerâmica, quartos em cerâmica, cozinha com armários e pia em granito, banho social com box blindex e pia em granito. Próximo a todo tipo de comércio, escolas, hospitais, shopping estação BH. Isento de IPTU. Área de lazer com quadra de esportes e e salão de festas. <br>Pode ser financiado.",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Apartamento 3 quartos São João Batista",
+            "createdAt": "2018-05-25T17:45:50.057Z",
+            "publisherId": 81007,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "031993362460",
+                "031986425260"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1037243672",
+            "parkingSpaces": [
+              1
+            ],
+            "updatedAt": "2018-09-12T19:18:12.930Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2185d5f320b0972f604b97ba4388cc66.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0371b019c8cc7f7944bcede353016538.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/5f4343f292dc49efc497e5137edb00f0.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/fdba4c846dc07608278383cd3d762339.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f6233b472c3964fb62ea6c09a0f90f01.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/6b90dc73cca035ade2570a224fc136e9.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/411e9e461cccb1a88af55b5eaea1f686.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/85236c86cd0c30eb878f31ec7497559d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/b25dcbbc51259261cac202d72d45a03b.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a1da7759d863614a2338bcc0706f5105.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e9d2841b42107980cc7461ffc2de2240.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/094e22e0bd8d905f0828ee1cecbb841e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/2443dd88ae96f3d3bc117ac04ccf0c46.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/797103162148bf0a0ca931a7503351d4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4b2b6144b06a2a844bf51ae12cb32f13.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/c1518f591bf31245953ba11a856a6819.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "neighborhood": "Venda Nova",
+              "street": "Rua Emanuel Marzano Matias",
+              "streetNumber": "178",
+              "unitNumber": "",
+              "zipCode": "31515040",
+              "locationId": "BR>Minas Gerais>NULL>Belo Horizonte>Barrios>Venda Nova",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -19.82137,
+                  "lon": -43.958852
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              0
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "CAP 110",
+            "bathrooms": [
+              1
+            ],
+            "totalAreas": [
+              67
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              3
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "yearlyIptu": "0",
+                "price": "185000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "250"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "81007",
+            "name": "Marluce de Paula Nicácio",
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "031986425260",
+              "alternative": "",
+              "primary": "031993362460"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/01d43c581bb1bf3b350c9aae49055380.jpg",
+            "licenseNumber": "22052-F-MG",
+            "websiteUrl": "",
+            "leadEmails": [],
+            "createdDate": "2014-03-25T14:37:58Z",
+            "showAddress": false
+          },
+          "url": {
+            "id": "1037243672",
+            "link": {
+              "name": "Apartamento com 3 Quartos à venda, 67m²",
+              "href": "/imovel/apartamento-3-quartos-venda-nova-bairros-belo-horizonte-com-garagem-67m2-venda-RS185000-id-1037243672/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/81007/marluce-de-paula-nicacio/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "NEAR_ACCESS_ROADS",
+              "NEAR_SHOPPING_CENTER",
+              "NEAR_PUBLIC_TRANSPORT",
+              "NEAR_SCHOOL",
+              "NEAR_HOSPITAL",
+              "BALCONY",
+              "FURNISHED",
+              "INTERNET_ACCESS",
+              "GARAGE",
+              "LAUNDRY",
+              "KITCHEN",
+              "SERVICE_AREA",
+              "NUMBER_OF_FLOORS",
+              "ESSENTIAL_PUBLIC_SERVICES"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              55
+            ],
+            "description": "O apartamento no bairro Ocian com 2 quartos e 1 banheiro. <br><br>O apartamento vai lhe possibilitar curtir os dias mais quentes de verão.<br>Além disso espaço para uma diversão diferente para você e sua família no segundo andar.<br>Imóvel está sendo vendido com alguns móveis saindo pertences pessoais.<br><br>Lindo apartamento de 2 dormitórios em local privilegiado. Ideal para quem busca um imóvel para veraneio ou moradia definitiva.<br>Próximo a escolas, supermercados, restaurantes, e todo o comércio além de estar poucos minutos do Shopping e das cidades vizinhas, como Santos e São Vicente entre outras.<br>Para quem deseja uma melhor qualidade de vida, ou simplesmente passar momentos inesquecíveis, a dois, ou em família.<br>Por um preço justo, poder desfrutar de uma cidade com uma infraestrutura diferenciada, curtir uma praia, poder pedalar pelas ciclovias que cortam toda a cidade a beira mar, ou na principal avenida de comercio da cidade.<br>Além de poder desfrutar da gastronomia local com restaurantes especializados em diferentes pratos, que variam de cozinha Italiana ou Japonesa a comidas Típicas Nordestinas e de Frutos do Mar, entre outras variedades de bares, lanchonetes, hambúrguerias etc...<br>À noite a cidade também possui seus atrativos com avenidas cheias de Barzinhos com musica ao vivo além dos Quiosques pela Orla da praia.<br>VENHA NOS FAZER UMA VISITA E SEM COMPROMISSO CONHECER DE PERTO ESTE IMÓVEL.",
+            "listingType": "USED",
+            "videos": [],
+            "title": "APARTAMENTO DE 1 DORMITÒRIO PRAIA GRANDE SEMI MOBILIADO",
+            "createdAt": "2018-09-10T17:52:45.571Z",
+            "publisherId": 55634,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "01334944023",
+                "013981449763"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1040944498",
+            "parkingSpaces": [
+              1
+            ],
+            "updatedAt": "2018-09-10T17:54:10.788Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/78a59462a6dd2f2d8e8bebf1f13478e5.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ffe23d637c2d774981767c69b9a03a93.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f77bbd6b146e8ef6f7cf637256084101.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/869eaee2f83085cee0ac5e046b2bdf83.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/c6224fb84a06949dbfa22e11a9ef69ec.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/dd24a7a13cc2b718df8acad61f3e3e72.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7304372ddfe08b8b825cff163f7686c9.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/9d38601794131b74be327170290877e2.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/12f56f1232c08cc796251eab1e174a19.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/b2ac7c296c30a8fb1fc8ed0348a7df8f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/3d21412ecd0ed7f98db6579cdd0a9df2.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0d076e3245886632293546b4fbfda5b7.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/c49ae6189c241a5ac71ec4ec5f3e1fa4.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/5ff181610d22a63efd6883483eeaba0b.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1ea9d83609f6821c490de22896d94810.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a00cdddc537849c8ea93d56e754a730d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f1a375f846380dfa657c517eb1b8c71c.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "São Paulo",
+              "city": "Praia Grande",
+              "neighborhood": "Cidade Ocian",
+              "street": "Avenida Presidente Kennedy",
+              "streetNumber": "7179",
+              "unitNumber": "",
+              "zipCode": "11707000",
+              "locationId": "BR>Sao Paulo>NULL>Praia Grande>Barrios>Cidade Ocian",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -24.02522,
+                  "lon": -46.47712
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              0
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "Ref. 6127",
+            "bathrooms": [
+              1
+            ],
+            "totalAreas": [
+              60
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              2
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "yearlyIptu": "1200",
+                "price": "160000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "285"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "55634",
+            "name": "Sergio Leite",
+            "address": {
+              "country": "BR",
+              "zipCode": "",
+              "city": "",
+              "streetNumber": "",
+              "zone": "",
+              "street": "",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "013981449763",
+              "alternative": "",
+              "primary": "01334944023"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/22fd4cdcf1093dabad6c26309d2edbc0.jpg",
+            "licenseNumber": "47787-F-SP",
+            "websiteUrl": "http://www.habitar.com.br",
+            "leadEmails": [
+              "habitarimoveispg@gmail.com"
+            ],
+            "createdDate": "2013-10-14T20:19:34Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "1040944498",
+            "link": {
+              "name": "Apartamento com 2 Quartos à venda, 55m²",
+              "href": "/imovel/apartamento-2-quartos-cidade-ocian-bairros-praia-grande-com-garagem-55m2-venda-RS160000-id-1040944498/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/55634/sergio-leite/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [],
+            "feedsId": "",
+            "usableAreas": [
+              61
+            ],
+            "description": "Linda casa de 3 dormitórios, 1 banheiro, - sala de estar e jantar integradas com split, cozinha americana e pátio. Fica semi-mobiliada com móveis planejados.<br>Varanda com deck em madeira tratada fechada com vidro com acabamento em bronze. Pátio nos fundos com toldo em lona Blackout de 5x2m e pia.<br>Agende JA a sua visita e não perca essa oportunidade.<br>.",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Casa de 3 dormitórios no Moradas do Sul",
+            "createdAt": "2018-04-11T17:00:37.334Z",
+            "publisherId": 125855,
+            "unitTypes": [
+              "HOME"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "051997670394",
+                "051984273465"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "94405062",
+            "parkingSpaces": [
+              2
+            ],
+            "updatedAt": "2018-08-10T14:03:23.868Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/5b1688236bdb66409e6a6b2c44d4f51f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/70eb8c75645da705cc55436ddb726d94.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/930f83b77330f6ece1d36c6275d21e64.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/f35fe799dc41a912fd7e171702363d2e.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d165349fa8c5b5eb99de12952e1c3338.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/44d27adf0089d61ddd22145d0da15b33.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/51165e3555429addc3a9138f73f04ba3.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/136c2d33fb6b1263cb7ea85967b0f021.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0c92ae69a8e8b3e4404171cb13a24acc.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/0df6ffd4b51dc84f2bc9b5bedb3e7a18.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/4d2491a15924bf9fe548ddf00b9c10c3.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a40f7c8ba831e57063ddd01526e299c7.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/bcd77d23adaf31bef11b66c09348cb9b.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/c70a693f2909206e5f44053d1d23762f.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/c42faf5228e03898b3694307b8a5668a.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/35c175777d124fd52e2d22da56fd52ad.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/53c49be0e2e1fd7bed6b318207494361.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/df2131d9e434be546d16be86c03fe4ce.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/01807a093b2ef9431d2761156a7c2e83.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/26bc2c5bc542f05ec29417c4f8ffd694.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "Rio Grande do Sul",
+              "city": "Porto Alegre",
+              "neighborhood": "Hípica",
+              "unitNumber": "",
+              "zipCode": "91788110",
+              "locationId": "BR>Rio Grande do Sul>NULL>Porto Alegre>Barrios>Hipica",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -30.151968,
+                  "lon": -51.164635
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              0
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "64a7c4",
+            "bathrooms": [
+              1
+            ],
+            "totalAreas": [
+              0
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              3
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "price": "240000",
+                "businessType": "SALE"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "NEIGHBORHOOD"
+          },
+          "publisher": {
+            "id": "125855",
+            "name": "JAinvest Serviços Imobiliários",
+            "address": {
+              "country": "BR",
+              "zipCode": "90480180",
+              "city": "Porto Alegre",
+              "streetNumber": "",
+              "zone": "",
+              "street": "Rua Senador Annibal Di Primio Beck, 280",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "RS",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "051984273465",
+              "alternative": "",
+              "primary": "051997670394"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/7ebebe08e4e4dc90d04a99bf29d03f47.jpg",
+            "licenseNumber": "0000-F-RS",
+            "websiteUrl": "http://www.jainvest.com.br",
+            "leadEmails": [
+              "danieldacaixa@gmail.com",
+              "gisele.jung@gmail.com",
+              "daniel@jainvest.com.br"
+            ],
+            "createdDate": "2016-11-23T18:39:01Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "94405062",
+            "link": {
+              "name": "Casa com 3 Quartos à venda, 61m²",
+              "href": "/imovel/casa-3-quartos-hipica-bairros-porto-alegre-com-garagem-61m2-venda-RS240000-id-94405062/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/125855/jainvest-servicos-imobiliarios/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "NEAR_ACCESS_ROADS",
+              "NEAR_PUBLIC_TRANSPORT",
+              "BALCONY",
+              "GARAGE",
+              "KITCHEN",
+              "EXTERIOR_VIEW",
+              "GATED_COMMUNITY",
+              "INTERCOM",
+              "SECURITY_24_HOURS",
+              "ELEVATOR",
+              "GOURMET_SPACE",
+              "GYM",
+              "BARBECUE_GRILL",
+              "PARTY_HALL",
+              "PLAYGROUND",
+              "POOL",
+              "SPORTS_COURT",
+              "CHILDRENS_POOL",
+              "ADULT_POOL",
+              "SEA_VIEW",
+              "NUMBER_OF_FLOORS"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              49
+            ],
+            "description": "BRISAS DO OCEANO!<br><br>Venha conhecer o lançamento da construtora SCIRE na Praia de Fora! Apartamentos de 2 dormitórios, 49,09m² a 63,15m² e unidades com vista para o mar.<br><br>Localização privilegiada, a 50 metros do mar, próximo ao acesso da BR-101 e menos de 9km do Centro de Palhoça.<br><br>O imóvel se enquadra no programa Minha Casa Minha Vida com subsídios de até R$37.000,00 e possibilidade de parcelamento da entrada direto com a construtora. Mensais a partir de R$199,00.<br><br>O empreendimento possui ainda em sua infraestrutura:<br>– Playground; <br>– 4 Salões de festas;<br>– Piscina Adulto;<br>– Piscina infantil;<br><br>Entre em contato e agende sua visita, conheça o projeto e simule de acordo com suas condições de pagamento.<br><br>*imagens e perspectivas de referência. Objetos e móveis não incluídos. Projeto pode sofrer alterações. R. 1/91762 em 23/09/2016. Registro de Imóveis Comarca de Palhoça/SC.<br><br>Tags: Imobiliária, Centeno, Imóveis, Apartamento, Minha Casa Minha Vida, 2 dormitórios, sacada, vista para o mar, playground, piscina, garagem, vaga de garagem, brisas do oceano",
+            "listingType": "USED",
+            "videos": [
+              "https://youtu.be/p_ht_rVvEnw"
+            ],
+            "title": "Lançamento Brisas do Oceano - Minha Casa Minha Vida - A partir de 49,09m²",
+            "createdAt": "2018-08-22T15:42:42.374Z",
+            "publisherId": 119095,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "04832830090",
+                "048991908999"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1040283504",
+            "parkingSpaces": [
+              1
+            ],
+            "updatedAt": "2018-09-17T16:35:30.109Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d252a6a260099f912469f14c37e0de82.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/96198f7fae6931e6b4bd50827e969d74.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/bc603186d9cace5cdefbb5b080e440d8.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/fb897e5727bf1a9370b4d46ec32180ca.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/611d888a1c847576a9ab157ec7e91fb2.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d71aee8e19ee58b31b24080101d83aa6.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/8863cde89d463e1534258652494dbd8d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/93af23d6c6b3bc0badcf757fd15b3104.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/00c6888d50efa3449d6ca643f4bbe900.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e957fda3c91e0f20870822ada2c2d64d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/635d44173f26134b8564f59a684f0e57.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/b67851e4c99c1932291f0c7dca093a76.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a835455a712df6679f0862069116081b.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/be8ddff3eda979c63b9126ffbf115c49.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a5fa3f9cdba384c454961c01f959fc1d.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "Santa Catarina",
+              "city": "Palhoça",
+              "neighborhood": "Praia de Fora",
+              "street": "Rua Arcanjo Cândido da Silva",
+              "streetNumber": "1",
+              "unitNumber": "",
+              "zipCode": "88138300",
+              "locationId": "BR>Santa Catarina>NULL>Palhoca>Barrios>Praia de Fora",
+              "zone": "Bairros",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -27.707433,
+                  "lon": -48.656942
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              0
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "AP0164",
+            "bathrooms": [
+              1
+            ],
+            "totalAreas": [
+              49
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              2
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "yearlyIptu": "0",
+                "price": "150000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "119095",
+            "name": "ALLAN IMOVEIS LTDA - ME",
+            "address": {
+              "country": "BR",
+              "zipCode": "",
+              "city": "",
+              "streetNumber": "",
+              "zone": "",
+              "street": "",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "048991908999",
+              "alternative": "",
+              "primary": "04832830090"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d23cc7ecdbbd80165dda748843bb8976.jpg",
+            "licenseNumber": "3940-J-SC",
+            "websiteUrl": "http://www.centenoimoveis.com.br/",
+            "leadEmails": [
+              "bruno@centenoimoveis.com.br"
+            ],
+            "createdDate": "2016-02-26T15:24:13Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "1040283504",
+            "link": {
+              "name": "Apartamento com 2 Quartos à venda, 49m²",
+              "href": "/imovel/apartamento-2-quartos-praia-de-fora-bairros-palhoca-com-garagem-49m2-venda-RS150000-id-1040283504/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/119095/allan-imoveis-ltda-me/",
+              "rel": ""
+            }
+          }
+        },
+        {
+          "listing": {
+            "amenities": [
+              "NEAR_ACCESS_ROADS",
+              "NEAR_SHOPPING_CENTER",
+              "NEAR_PUBLIC_TRANSPORT",
+              "NEAR_HOSPITAL",
+              "GATED_COMMUNITY",
+              "INTERCOM",
+              "BARBECUE_GRILL",
+              "ELEVATOR",
+              "GYM",
+              "PARTY_HALL",
+              "PLAYGROUND",
+              "POOL",
+              "SPORTS_COURT",
+              "ADULT_POOL",
+              "CHILDRENS_POOL",
+              "YOUTH_GAME_ROOM",
+              "SAUNA"
+            ],
+            "feedsId": "",
+            "usableAreas": [
+              50
+            ],
+            "description": "Apartamento com 2 dormitórios em ótima localização. Condomínio com lazer completo. Piscina, Sauna, churrasqueira, Salão de festa, Salão de jogos, Quadra. Próximo ao metrô Campo limpo.",
+            "listingType": "USED",
+            "videos": [],
+            "title": "Apartamento padrão com 2 dormitórios Morumbi Sul",
+            "createdAt": "2018-06-22T17:41:53.958Z",
+            "publisherId": 349966,
+            "unitTypes": [
+              "APARTMENT"
+            ],
+            "providerId": "VIVAREAL",
+            "condominiumName": "",
+            "propertyType": "UNIT",
+            "contact": {
+              "chat": "",
+              "phones": [
+                "01155152558",
+                "01158919147"
+              ]
+            },
+            "listingStatus": "ACTIVE",
+            "id": "1038060659",
+            "parkingSpaces": [
+              1
+            ],
+            "updatedAt": "2018-08-13T13:04:20.135Z",
+            "owner": false,
+            "images": [
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/79936688d692e1f0b600219029b97c98.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/ddb644a29d6ff0b82fb4bf72049a20f9.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/694a473e809e95c83fa76991c5cf200c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/3a8f42b567ff0aff2d319503bd6e0e5c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/d1810f87fddf071eb4d35b4dc32793ae.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a5ba76c674c88353935f26b13c7b1e09.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/37b29b935359f34da5bb6d1667480ba2.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/22b8107544ce8ad93970a6347f79dc9d.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/cf40bc5ea21e65df866b57d7be131f1c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/1ce75d0cdcbc49bdacc871fbce497f02.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/49309f73ad0b4a06865e65ee611c595c.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/e13c028056751689cbb88e1d7554f1b9.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/a54d9fd77bf76155b4e83d012f2a1d59.jpg",
+              "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/97d76db98ea22013f833575b0a7cc979.jpg"
+            ],
+            "address": {
+              "country": "Brasil",
+              "state": "São Paulo",
+              "city": "São Paulo",
+              "neighborhood": "Campo Limpo",
+              "street": "Rua Nossa Senhora do Bom Conselho",
+              "streetNumber": "320",
+              "unitNumber": "",
+              "zipCode": "05763470",
+              "locationId": "BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Campo Limpo",
+              "zone": "Zona Sul",
+              "district": "",
+              "geoLocation": {
+                "optional_precision": "precision",
+                "location": {
+                  "lat": -23.642096,
+                  "lon": -46.759001
+                },
+                "precision": "ROOFTOP"
+              }
+            },
+            "suites": [
+              0
+            ],
+            "publicationType": "PREMIUM",
+            "externalId": "00031",
+            "bathrooms": [
+              1
+            ],
+            "totalAreas": [
+              50
+            ],
+            "logoUrl": "",
+            "bedrooms": [
+              2
+            ],
+            "promotions": [],
+            "highlights": "",
+            "pricingInfos": [
+              {
+                "price": "250000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "400"
+              }
+            ],
+            "showPrice": true,
+            "displayAddress": "ALL"
+          },
+          "publisher": {
+            "id": "349966",
+            "name": "CONGLOBAL",
+            "address": {
+              "country": "BR",
+              "zipCode": "04905-022",
+              "city": "São Paulo",
+              "streetNumber": "",
+              "zone": "",
+              "street": "Estrada do M Boi Mirim",
+              "locationId": "",
+              "district": "",
+              "unitNumber": "",
+              "state": "SP",
+              "neighborhood": ""
+            },
+            "phone": {
+              "leadsPhone": "",
+              "mobile": "01158919147",
+              "alternative": "",
+              "primary": "01155152558"
+            },
+            "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/vr.images.sp/9b7c11fe2392fe11840df2fbf5e8b5a1.jpg",
+            "licenseNumber": "0000-F-SP",
+            "websiteUrl": "",
+            "leadEmails": [],
+            "createdDate": "2018-05-22T17:13:37Z",
+            "showAddress": true
+          },
+          "url": {
+            "id": "1038060659",
+            "link": {
+              "name": "Apartamento com 2 Quartos à venda, 50m²",
+              "href": "/imovel/apartamento-2-quartos-campo-limpo-zona-sul-sao-paulo-com-garagem-50m2-venda-RS250000-id-1038060659/",
+              "rel": ""
+            }
+          },
+          "properAddress": null,
+          "publisherUrl": {
+            "link": {
+              "name": "",
+              "href": "/349966/conglobal/",
+              "rel": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  "facets": {},
+  "glossary": {
+    "items": {
+      "amenity": {
+        "items": {
+          "Amenity_NONE": {
+            "singular": "Não informado",
+            "plural": "Não informados"
+          },
+          "SECURITY_24_HOURS": {
+            "singular": "Segurança 24h",
+            "plural": "Segurança 24h"
+          },
+          "ALARM_SYSTEM": {
+            "singular": "Sistema de alarme",
+            "plural": "Sistemas de alarme"
+          },
+          "FIREPLACE": {
+            "singular": "Lareira",
+            "plural": "Lareiras"
+          },
+          "DEPOSIT": {
+            "singular": "Depósito",
+            "plural": "Depósitos"
+          },
+          "INTERCOM": {
+            "singular": "Interfone",
+            "plural": "Interfones"
+          },
+          "GATED_COMMUNITY": {
+            "singular": "Condomínio fechado",
+            "plural": "Condomínios fechados"
+          },
+          "BARBECUE_GRILL": {
+            "singular": "Churrasqueira",
+            "plural": "Churrasqueiras"
+          },
+          "ELEVATOR": {
+            "singular": "Elevador",
+            "plural": "Elevadores"
+          },
+          "GYM": {
+            "singular": "Academia",
+            "plural": "Academias"
+          },
+          "POOL": {
+            "singular": "Piscina",
+            "plural": "Piscinas"
+          },
+          "SPORTS_COURT": {
+            "singular": "Quadra poliesportiva",
+            "plural": "Quadras poliesportivas"
+          },
+          "GARDEN": {
+            "singular": "Jardim",
+            "plural": "Jardins"
+          },
+          "GOURMET_SPACE": {
+            "singular": "Espaço gourmet",
+            "plural": "Espaços gourmet"
+          },
+          "PLAYGROUND": {
+            "singular": "Playground",
+            "plural": "Playgrounds"
+          },
+          "PARTY_HALL": {
+            "singular": "Salão de festas",
+            "plural": "Salões de festas"
+          },
+          "NUMBER_OF_FLOORS": {
+            "singular": "Mais de um andar",
+            "plural": "Mais de um andar"
+          },
+          "NEAR_ACCESS_ROADS": {
+            "singular": "Perto de vias de acesso",
+            "plural": "Perto de vias de acesso"
+          },
+          "ELECTRIC_GENERATOR": {
+            "singular": "Gerador elétrico",
+            "plural": "Geradores elétricos"
+          },
+          "PAY_PER_USE_SERVICES": {
+            "singular": "Serviços pay per use",
+            "plural": "Serviços pay per use"
+          },
+          "TEEN_SPACE": {
+            "singular": "Espaço teen",
+            "plural": "Espaços teen"
+          },
+          "FULL_CABLING": {
+            "singular": "Cabeamento estruturado",
+            "plural": "Cabeamentos estruturados"
+          },
+          "CABLE_TV": {
+            "singular": "TV a cabo",
+            "plural": "TVs a cabo"
+          },
+          "HOME_CINEMA": {
+            "singular": "Cinema",
+            "plural": "Cinemas"
+          },
+          "TENNIS_COURT": {
+            "singular": "Quadra de tênis",
+            "plural": "Quadras de tênis"
+          },
+          "NEAR_PUBLIC_TRANSPORT": {
+            "singular": "Próximo a transporte público",
+            "plural": "Próximo a transporte público"
+          },
+          "SAFETY_CIRCUIT": {
+            "singular": "Circuito de segurança",
+            "plural": "Circuitos de segurança"
+          },
+          "NEAR_SCHOOL": {
+            "singular": "Próximo a escola",
+            "plural": "Próximo a escola"
+          },
+          "GREEN_SPACE": {
+            "singular": "Espaço verde / Parque",
+            "plural": "Espaços verde / Parques"
+          },
+          "NEAR_SHOPPING_CENTER": {
+            "singular": "Próximo a shopping",
+            "plural": "Próximo a shopping"
+          },
+          "ADULT_POOL": {
+            "singular": "Piscina para adulto",
+            "plural": "Piscinas para adultos"
+          },
+          "CHILDRENS_POOL": {
+            "singular": "Piscina infantil",
+            "plural": "Piscinas infantis"
+          },
+          "CINEMA": {
+            "singular": "Cinema",
+            "plural": "Cinemas"
+          },
+          "ADULT_GAME_ROOM": {
+            "singular": "Salão de jogos",
+            "plural": "Salões de jogos"
+          },
+          "YOUTH_GAME_ROOM": {
+            "singular": "Salão de jogos",
+            "plural": "Salões de jogos"
+          },
+          "RECEPTION": {
+            "singular": "Recepção",
+            "plural": "Recepções"
+          },
+          "MASSAGE": {
+            "singular": "Sala de massagem",
+            "plural": "Salas de massagem"
+          },
+          "GARAGE_BAND": {
+            "singular": "Garage band",
+            "plural": "Garage bands"
+          },
+          "SAUNA": {
+            "singular": "Sauna",
+            "plural": "Saunas"
+          },
+          "ESSENTIAL_PUBLIC_SERVICES": {
+            "singular": "Serviços públicos essenciais",
+            "plural": "Serviços públicos essenciais"
+          },
+          "HIKING_TRAIL": {
+            "singular": "Pista de cooper",
+            "plural": "Pistas de cooper"
+          },
+          "SPA": {
+            "singular": "Spa",
+            "plural": "Spas"
+          },
+          "SQUASH": {
+            "singular": "Quadra de squash",
+            "plural": "Quadras de squash"
+          },
+          "WATCHMAN": {
+            "singular": "Vigia",
+            "plural": "Vigias"
+          },
+          "REFLECTING_POOL": {
+            "singular": "Espelhos d'água",
+            "plural": "Espelhos d'água"
+          },
+          "INTERNET_ACCESS": {
+            "singular": "Conexão à internet",
+            "plural": "Conexões à internet"
+          },
+          "GARAGE": {
+            "singular": "Garagem",
+            "plural": "Garagens"
+          },
+          "LAUNDRY": {
+            "singular": "Lavanderia",
+            "plural": "Lavanderias"
+          },
+          "KITCHEN": {
+            "singular": "Cozinha",
+            "plural": "Cozinhas"
+          },
+          "BACKYARD": {
+            "singular": "Quintal",
+            "plural": "Quintais"
+          },
+          "BALCONY": {
+            "singular": "Varanda",
+            "plural": "Varandas"
+          },
+          "AIR_CONDITIONING": {
+            "singular": "Ar-condicionado",
+            "plural": "Ares-condicionado"
+          },
+          "FURNISHED": {
+            "singular": "Mobiliado",
+            "plural": "Mobiliados"
+          },
+          "SERVICE_AREA": {
+            "singular": "Área de serviço",
+            "plural": "Áreas de serviço"
+          },
+          "NEAR_HOSPITAL": {
+            "singular": "Próximo a hospitais",
+            "plural": "Próximo a hospitais"
+          },
+          "EXTERIOR_VIEW": {
+            "singular": "Vista exterior",
+            "plural": "Vistas exteriores"
+          },
+          "HEATING": {
+            "singular": "Aquecimento",
+            "plural": "Aquecimentos"
+          },
+          "SEA_VIEW": {
+            "singular": "Vista para o mar",
+            "plural": "Vistas para o mar"
+          },
+          "MOUNTAIN_VIEW": {
+            "singular": "Vista para a montanha",
+            "plural": "Vistas para a montanha"
+          },
+          "LAKE_VIEW": {
+            "singular": "Vista para lago",
+            "plural": "Vistas para lago"
+          },
+          "GOURMET_BALCONY": {
+            "singular": "Varanda gourmet",
+            "plural": "Varandas gourmet"
+          },
+          "CEMENT": {
+            "singular": "Cimento",
+            "plural": "Cimentos"
+          },
+          "GRAVEL": {
+            "singular": "Cascalho",
+            "plural": "Cascalhos"
+          },
+          "PLAYGROUND_2": {
+            "singular": "Playground",
+            "plural": "Playgrounds"
+          },
+          "GRASS": {
+            "singular": "Gramado",
+            "plural": "Gramados"
+          },
+          "HOME_OFFICE": {
+            "singular": "Escritório",
+            "plural": "Escritórios"
+          },
+          "NEAR_SHOPPING_CENTER_2": {
+            "singular": "Próximo a shopping",
+            "plural": "Próximo a shopping"
+          },
+          "LAND": {
+            "singular": "Terra",
+            "plural": "Terras"
+          },
+          "PETS_ALLOWED": {
+            "singular": "Aceita animais",
+            "plural": "Aceitam animais"
+          },
+          "DISABLED_ACCESS": {
+            "singular": "Acesso para deficientes",
+            "plural": "Acessos para deficientes"
+          },
+          "INTEGRATED_ENVIRONMENTS": {
+            "singular": "Ambientes integrados",
+            "plural": "Ambientes integrados"
+          },
+          "FULL_FLOOR": {
+            "singular": "Andar inteiro",
+            "plural": "Andares inteiros"
+          },
+          "AQUARIUM": {
+            "singular": "Aquário",
+            "plural": "Aquários"
+          },
+          "RECREATION_AREA": {
+            "singular": "Área de lazer",
+            "plural": "Áreas de lazer"
+          },
+          "SANDY": {
+            "singular": "Arenoso",
+            "plural": "Arenosos"
+          },
+          "ARGILLOSE": {
+            "singular": "Argiloso",
+            "plural": "Argilosos"
+          },
+          "KITCHEN_CABINETS": {
+            "singular": "Armário na cozinha",
+            "plural": "Armários na cozinha"
+          },
+          "BUILTIN_WARDROBE": {
+            "singular": "Armário embutido",
+            "plural": "Armários embutidos"
+          },
+          "BEDROOM_WARDROBE": {
+            "singular": "Armário embutido no quarto",
+            "plural": "Armários embutidos no quarto"
+          },
+          "BATHROOM_CABINETS": {
+            "singular": "Armário no banheiro",
+            "plural": "Armários nos banheiros"
+          },
+          "FRUIT_TREES": {
+            "singular": "Árvore frutífera",
+            "plural": "Árvores frutíferas"
+          },
+          "TREE_CLIMBING": {
+            "singular": "Arvorismo",
+            "plural": "Arvorismo"
+          },
+          "BATHTUB": {
+            "singular": "Banheira",
+            "plural": "Banheiras"
+          },
+          "SERVICE_BATHROOM": {
+            "singular": "Banheiro de serviço",
+            "plural": "Banheiros de serviço"
+          },
+          "BAR": {
+            "singular": "Bar",
+            "plural": "Bares"
+          },
+          "POOL_BAR": {
+            "singular": "Bar na piscina",
+            "plural": "Bares nas piscinas"
+          },
+          "LIBRARY": {
+            "singular": "Biblioteca",
+            "plural": "Bibliotecas"
+          },
+          "BICYCLES_PLACE": {
+            "singular": "Bicicletário",
+            "plural": "Bicicletários"
+          },
+          "BLINDEX_BOX": {
+            "singular": "Box blindex",
+            "plural": "Box blindex"
+          },
+          "TOYS_PLACE": {
+            "singular": "Brinquedoteca",
+            "plural": "Brinquedotecas"
+          },
+          "SECURITY_CAMERA": {
+            "singular": "Câmera de segurança",
+            "plural": "Câmeras de segurança"
+          },
+          "FOOTBALL_FIELD": {
+            "singular": "Campo de futebol",
+            "plural": "Campos de futebol"
+          },
+          "GOLF_FIELD": {
+            "singular": "Campo de golfe",
+            "plural": "Campos de golfe"
+          },
+          "DOG_KENNEL": {
+            "singular": "Canil",
+            "plural": "Canis"
+          },
+          "CARPET": {
+            "singular": "Carpete",
+            "plural": "Carpetes"
+          },
+          "CARETAKER_HOUSE": {
+            "singular": "Casa de caseiro",
+            "plural": "Casas de caseiro"
+          },
+          "BACKGROUND_HOUSE": {
+            "singular": "Casa de fundo",
+            "plural": "Casas de fundo"
+          },
+          "HEADQUARTERS": {
+            "singular": "Casa sede",
+            "plural": "Casas sede"
+          },
+          "BARN": {
+            "singular": "Celeiro",
+            "plural": "Celeiros"
+          },
+          "BEAUTY_CENTER": {
+            "singular": "Centro de estética",
+            "plural": "Centros de estética"
+          },
+          "FENCE": {
+            "singular": "Cerca",
+            "plural": "Cercas"
+          },
+          "CHILDREN_CARE": {
+            "singular": "Children care",
+            "plural": "Children care"
+          },
+          "BARBECUE_BALCONY": {
+            "singular": "Churrasqueira na varanda",
+            "plural": "Churrasqueiras na varanda"
+          },
+          "GAS_SHOWER": {
+            "singular": "Chuveiro a gás",
+            "plural": "Chuveiros a gás"
+          },
+          "BURNT_CEMENT": {
+            "singular": "Cimento queimado",
+            "plural": "Cimentos queimado"
+          },
+          "CLOSET": {
+            "singular": "Closet",
+            "plural": "Closets"
+          },
+          "COVERAGE": {
+            "singular": "Cobertura coletiva",
+            "plural": "Coberturas coletivas"
+          },
+          "COFFEE_SHOP": {
+            "singular": "Coffee shop",
+            "plural": "Coffee shop"
+          },
+          "COPA": {
+            "singular": "Copa",
+            "plural": "Copas"
+          },
+          "COWORKING": {
+            "singular": "Coworking",
+            "plural": "Coworking"
+          },
+          "AMERICAN_KITCHEN": {
+            "singular": "Cozinha americana",
+            "plural": "Cozinhas americanas"
+          },
+          "GOURMET_KITCHEN": {
+            "singular": "Cozinha gourmet",
+            "plural": "Cozinhas gourmet"
+          },
+          "LARGE_KITCHEN": {
+            "singular": "Cozinha grande",
+            "plural": "Cozinhas grandes"
+          },
+          "CORRAL": {
+            "singular": "Curral",
+            "plural": "Currais"
+          },
+          "DECK": {
+            "singular": "Deck",
+            "plural": "Decks"
+          },
+          "EMPLOYEE_DEPENDENCY": {
+            "singular": "Dependência de empregados",
+            "plural": "Dependências de empregados"
+          },
+          "ACLIVE": {
+            "singular": "Desnível para frente (rua)",
+            "plural": "Desniveis para frente (rua)"
+          },
+          "DECLIVE": {
+            "singular": "Desnível para trás (fundo)",
+            "plural": "Desniveis para trás (fundo)"
+          },
+          "PANTRY": {
+            "singular": "Despensa",
+            "plural": "Despensas"
+          },
+          "DRYWALL": {
+            "singular": "Drywall",
+            "plural": "Drywalls"
+          },
+          "EDICULE": {
+            "singular": "Edícula",
+            "plural": "Edículas"
+          },
+          "ELECTRICITY": {
+            "singular": "Energia elétrica",
+            "plural": "Energias elétricas"
+          },
+          "SERVICE_ENTRANCE": {
+            "singular": "Entrada de serviço",
+            "plural": "Entradas de serviço"
+          },
+          "SIDE_ENTRANCE": {
+            "singular": "Entrada lateral",
+            "plural": "Entradas laterais"
+          },
+          "TRUCK_ENTRANCE": {
+            "singular": "Entrada para caminhões",
+            "plural": "Entradas para caminhões"
+          },
+          "STAIR": {
+            "singular": "Escada",
+            "plural": "Escadas"
+          },
+          "PET_SPACE": {
+            "singular": "Espaço Pet",
+            "plural": "Espaços Pet"
+          },
+          "ZEN_SPACE": {
+            "singular": "Espaço zen",
+            "plural": "Espaços zen"
+          },
+          "PARKING": {
+            "singular": "Estacionamento ",
+            "plural": "Estacionamentos"
+          },
+          "GUEST_PARKING": {
+            "singular": "Estacionamento para visitantes",
+            "plural": "Estacionamento para visitantes"
+          },
+          "COOKER": {
+            "singular": "Fogão",
+            "plural": "Fogões"
+          },
+          "PIZZA_OVEN": {
+            "singular": "Forno de pizza",
+            "plural": "Fornos de pizza"
+          },
+          "FREEZER": {
+            "singular": "Freezer",
+            "plural": "Freezers"
+          },
+          "EAST_FACING": {
+            "singular": "Frente para o leste",
+            "plural": "Frentes para o leste"
+          },
+          "NORTH_FACING": {
+            "singular": "Frente para o norte",
+            "plural": "Frentes para o norte"
+          },
+          "WEST_FACING": {
+            "singular": "Frente para o oeste",
+            "plural": "Frentes para o oeste"
+          },
+          "SOUTH_FACING": {
+            "singular": "Frente para o sul",
+            "plural": "Frentes para o sul"
+          },
+          "PLATED_GAS": {
+            "singular": "Gás Encanado",
+            "plural": "Gás Encanado"
+          },
+          "GEMINADA": {
+            "singular": "Geminada",
+            "plural": "Geminadas"
+          },
+          "SANCA": {
+            "singular": "Gesso - Sanca - Teto Rebaixado",
+            "plural": "Gessos - Sancas - Tetos Rebaixados"
+          },
+          "SECURITY_CABIN": {
+            "singular": "Guarita",
+            "plural": "Guaritas"
+          },
+          "ENTRANCE_HALL": {
+            "singular": "Hall de entrada",
+            "plural": "Halls de entrada"
+          },
+          "HELIPAD": {
+            "singular": "Heliponto",
+            "plural": "Helipontos"
+          },
+          "WHIRLPOOL": {
+            "singular": "Hidromassagem",
+            "plural": "Hidromassagens"
+          },
+          "VEGETABLE_GARDEN": {
+            "singular": "Horta",
+            "plural": "Hortas"
+          },
+          "CORNER_PROPERTY": {
+            "singular": "Imóvel de esquina",
+            "plural": "Imóveis de esquina"
+          },
+          "SOUNDPROOFING": {
+            "singular": "Isolamento acústico",
+            "plural": "Isolamentos acústicos"
+          },
+          "THERMAL_INSULATION": {
+            "singular": "Isolamento térmico",
+            "plural": "Isolamentos térmicos"
+          },
+          "ALUMINUM_WINDOW": {
+            "singular": "Janela de alumínio",
+            "plural": "Janelas de alumínio"
+          },
+          "LARGE_WINDOW": {
+            "singular": "Janela grande",
+            "plural": "Janelas grandes"
+          },
+          "LAKE": {
+            "singular": "Lago",
+            "plural": "Lagos"
+          },
+          "SLAB": {
+            "singular": "Laje",
+            "plural": "Lajes"
+          },
+          "LAVABO": {
+            "singular": "Lavabo",
+            "plural": "Lavabos"
+          },
+          "MARINA": {
+            "singular": "Marina",
+            "plural": "Marinas"
+          },
+          "HALF_FLOOR": {
+            "singular": "Meio andar",
+            "plural": "Meio andar"
+          },
+          "MEZZANINE": {
+            "singular": "Mezanino",
+            "plural": "Mezaninos"
+          },
+          "MINI_SQUARE": {
+            "singular": "Mini quadra",
+            "plural": "Mini quadras"
+          },
+          "PLANNED_FURNITURE": {
+            "singular": "Móvel planejado",
+            "plural": "Móveis planejados"
+          },
+          "CLIMBING_WALL": {
+            "singular": "Muro de escalada",
+            "plural": "Muros de escalada"
+          },
+          "GLASS_WALL": {
+            "singular": "Muro de vidro",
+            "plural": "Muros de vidro"
+          },
+          "WALLS_GRIDS": {
+            "singular": "Muro e grade",
+            "plural": "Muros e grades"
+          },
+          "HOT_TUB": {
+            "singular": "Ofurô",
+            "plural": "Ofurôs"
+          },
+          "ORCHID_PLACE": {
+            "singular": "Orquidário",
+            "plural": "Orquidários"
+          },
+          "PASTURE": {
+            "singular": "Pasto",
+            "plural": "Pastos"
+          },
+          "HIGH_CEILING_HEIGHT": {
+            "singular": "Pé direito alto",
+            "plural": "Pés direitos altos"
+          },
+          "HEATED_POOL": {
+            "singular": "Piscina aquecida",
+            "plural": "Piscinas aquecidas"
+          },
+          "COVERED_POOL": {
+            "singular": "Piscina coberta",
+            "plural": "Piscinas cobertas"
+          },
+          "PRIVATE_POOL": {
+            "singular": "Piscina privativa",
+            "plural": "Piscinas privativas"
+          },
+          "WOOD_FLOOR": {
+            "singular": "Piso de madeira",
+            "plural": "Pisos de madeira"
+          },
+          "RAISED_FLOOR": {
+            "singular": "Piso elevado",
+            "plural": "Pisos elevados"
+          },
+          "COLD_FLOOR": {
+            "singular": "Piso frio",
+            "plural": "Pisos frios"
+          },
+          "LAMINATED_FLOOR": {
+            "singular": "Piso laminado",
+            "plural": "Pisos laminados"
+          },
+          "VINYL_FLOOR": {
+            "singular": "Piso vinílico",
+            "plural": "Pisos vinílicos"
+          },
+          "SKATE_LANE": {
+            "singular": "Pista de skate",
+            "plural": "Pistas de skate"
+          },
+          "PLAN": {
+            "singular": "Plano",
+            "plural": "Planos"
+          },
+          "PLATIBANDA": {
+            "singular": "Platibanda",
+            "plural": "Platibandas"
+          },
+          "WELL": {
+            "singular": "Poço",
+            "plural": "Poços"
+          },
+          "ARTESIAN_WELL": {
+            "singular": "Poço artesiano",
+            "plural": "Poços artesianos"
+          },
+          "POMAR": {
+            "singular": "Pomar",
+            "plural": "Pomares"
+          },
+          "PORCELAIN": {
+            "singular": "Porcelanato",
+            "plural": "Porcelanatos"
+          },
+          "ELECTRONIC_GATE": {
+            "singular": "Portão eletrônico",
+            "plural": "Portões eletrônicos"
+          },
+          "CONCIERGE_24H": {
+            "singular": "Portaria 24h",
+            "plural": "Portarias 24h"
+          },
+          "DIVIDERS": {
+            "singular": "Possui divisória",
+            "plural": "Possui divisórias"
+          },
+          "SQUARE": {
+            "singular": "Praça",
+            "plural": "Praças"
+          },
+          "INDOOR_SOCCER": {
+            "singular": "Quadra de futebol de salão",
+            "plural": "Quadras de futebol de salão"
+          },
+          "SERVICE_ROOM": {
+            "singular": "Quarto de serviço",
+            "plural": "Quartos de serviços"
+          },
+          "REVERSIBLE_ROOM": {
+            "singular": "Quarto extra reversível",
+            "plural": "Quartos extra reversiveis"
+          },
+          "RAMP": {
+            "singular": "Rampa",
+            "plural": "Rampas"
+          },
+          "REDARIO": {
+            "singular": "Redario",
+            "plural": "Redarios"
+          },
+          "SEWAGE": {
+            "singular": "Rede de água e esgoto",
+            "plural": "Redes de água e esgoto"
+          },
+          "REFECTORY": {
+            "singular": "Refeitório",
+            "plural": "Refeitórios"
+          },
+          "WATER_TANK": {
+            "singular": "Reservatório de água",
+            "plural": "Reservatórios de água"
+          },
+          "RESTAURANT": {
+            "singular": "Restaurante",
+            "plural": "Restaurantes"
+          },
+          "RIVER": {
+            "singular": "Rio",
+            "plural": "Rios"
+          },
+          "PATROL": {
+            "singular": "Ronda/Vigilância",
+            "plural": "Rondas/Vigilâncias"
+          },
+          "PAVED_STREET": {
+            "singular": "Rua asfaltada",
+            "plural": "Ruas asfaltadas"
+          },
+          "LUNCH_ROOM": {
+            "singular": "Sala de almoço",
+            "plural": "Salas de almoço"
+          },
+          "DINNER_ROOM": {
+            "singular": "Sala de jantar",
+            "plural": "Salas de jantar"
+          },
+          "MASSAGE_ROOM": {
+            "singular": "Sala de massagem",
+            "plural": "Salas de massagem"
+          },
+          "MEETING_ROOM": {
+            "singular": "Sala de reunião",
+            "plural": "Salas de reuniões"
+          },
+          "LARGE_ROOM": {
+            "singular": "Sala grande",
+            "plural": "Salas grandes"
+          },
+          "SMALL_ROOM": {
+            "singular": "Sala pequena",
+            "plural": "Salas pequenas"
+          },
+          "COVENTION_HALL": {
+            "singular": "Salão de convenção",
+            "plural": "Salões de convenções"
+          },
+          "GAMES_ROOM": {
+            "singular": "Salão de jogos",
+            "plural": "Salões de jogos"
+          },
+          "SOLARIUM": {
+            "singular": "Solarium",
+            "plural": "Solariuns"
+          },
+          "WALL_BALCONY": {
+            "singular": "Varanda fechada com vidro",
+            "plural": "Varandas fechadas com vidro"
+          },
+          "NATURAL_VENTILATION": {
+            "singular": "Ventilação natural",
+            "plural": "Ventilações naturais"
+          },
+          "DRESS_ROOM": {
+            "singular": "Vestiário",
+            "plural": "Vestiários"
+          },
+          "DRESS_ROOM2": {
+            "singular": "Vestiário para diaristas",
+            "plural": "Vestiários para diaristas"
+          },
+          "PANORAMIC_VIEW": {
+            "singular": "Vista panorâmica",
+            "plural": "Vistas panorâmicas"
+          }
+        }
+      },
+      "businessType": {
+        "items": {
+          "BusinessType_NONE": {
+            "singular": "Não informado",
+            "plural": "Não informados"
+          },
+          "RENTAL": {
+            "singular": "Aluguel",
+            "plural": "Aluguéis"
+          },
+          "SALE": {
+            "singular": "Venda",
+            "plural": "Vendas"
+          }
+        }
+      },
+      "constructionStatus": {
+        "items": {
+          "ConstructionStatus_NONE": {
+            "singular": "Não informado",
+            "plural": "Não informados"
+          },
+          "PLAN_ONLY": {
+            "singular": "Na planta",
+            "plural": "Na planta"
+          },
+          "UNDER_CONSTRUCTION": {
+            "singular": "Em construção",
+            "plural": "Em construção"
+          },
+          "BUILT": {
+            "singular": "Pronto para morar",
+            "plural": "Prontos para morar"
+          }
+        }
+      },
+      "displayAddress": {
+        "items": {
+          "DisplayAddress_NONE": {
+            "singular": "Não informado",
+            "plural": "Não informados"
+          },
+          "ALL": {
+            "singular": "Endereço completo",
+            "plural": "Endereços completo"
+          },
+          "STREET": {
+            "singular": "Apenas rua",
+            "plural": "Apenas ruas"
+          },
+          "NEIGHBORHOOD": {
+            "singular": "Apenas bairro",
+            "plural": "Apenas bairros"
+          }
+        }
+      },
+      "listingStatus": {
+        "items": {
+          "ListingStatus_NONE": {
+            "singular": "Não informado",
+            "plural": "Não informados"
+          },
+          "DRAFT": {
+            "singular": "Rascunho",
+            "plural": "Rascunhos"
+          },
+          "ACTIVE": {
+            "singular": "Ativo",
+            "plural": "Ativos"
+          },
+          "INACTIVE": {
+            "singular": "Inativo",
+            "plural": "Inativos"
+          },
+          "BLOCKED": {
+            "singular": "Bloqueado",
+            "plural": "Bloqueados"
+          }
+        }
+      },
+      "listingType": {
+        "items": {
+          "ListingType_NONE": {
+            "singular": "Não informado",
+            "plural": "Não informados"
+          },
+          "USED": {
+            "singular": "Imóvel usado",
+            "plural": "Imóveis usados"
+          },
+          "DEVELOPMENT": {
+            "singular": "Lançamento",
+            "plural": "Lançamentos"
+          }
+        }
+      },
+      "period": {
+        "items": {
+          "Period_NONE": {
+            "singular": "Não informado",
+            "plural": "Não informados"
+          },
+          "DAILY": {
+            "singular": "Diário",
+            "plural": "Diários"
+          },
+          "WEEKLY": {
+            "singular": "Semanal",
+            "plural": "Semanais"
+          },
+          "MONTHLY": {
+            "singular": "Mensal",
+            "plural": "Mensais"
+          },
+          "YEARLY": {
+            "singular": "Anual",
+            "plural": "Anuais"
+          }
+        }
+      },
+      "promotionPublicationType": {
+        "items": {
+          "PromotionPublicationType_NONE": {
+            "singular": "Não informado",
+            "plural": "Não informados"
+          },
+          "STANDARD": {
+            "singular": "Padrão",
+            "plural": "Padrões"
+          },
+          "PREMIUM": {
+            "singular": "Destaque",
+            "plural": "Destaques"
+          },
+          "SOLD_OUT": {
+            "singular": "Esgotado",
+            "plural": "Esgotados"
+          }
+        }
+      },
+      "promotionStatus": {
+        "items": {
+          "PromotionStatus_NONE": {
+            "singular": "Não informado",
+            "plural": "Não informados"
+          },
+          "ACTIVE": {
+            "singular": "Ativa",
+            "plural": "Ativas"
+          },
+          "INACTIVE": {
+            "singular": "Inativa",
+            "plural": "Inativas"
+          }
+        }
+      },
+      "propertyType": {
+        "items": {
+          "PropertyType_NONE": {
+            "singular": "Não informado",
+            "plural": "Não informados"
+          },
+          "CONDOMINIUM": {
+            "singular": "Condomínio",
+            "plural": "Condomínios"
+          },
+          "UNIT": {
+            "singular": "Unidade",
+            "plural": "Unidades"
+          }
+        }
+      },
+      "publicationType": {
+        "items": {
+          "PublicationType_NONE": {
+            "singular": "Não informado",
+            "plural": "Não informados"
+          },
+          "PREMIUM": {
+            "singular": "Destaque",
+            "plural": "Destaques"
+          },
+          "PREMIUM_FEED": {
+            "singular": "Destaque",
+            "plural": "Destaques"
+          },
+          "STANDARD": {
+            "singular": "Padrão",
+            "plural": "Padrões"
+          }
+        }
+      },
+      "unitType": {
+        "items": {
+          "UnitType_NONE": {
+            "singular": "Não informado",
+            "plural": "Não informados"
+          },
+          "APARTMENT": {
+            "singular": "Apartamento",
+            "plural": "Apartamentos"
+          },
+          "TWO_STORY_HOUSE": {
+            "singular": "Sobrado",
+            "plural": "Sobrados"
+          },
+          "DUPLEX": {
+            "singular": "Duplex",
+            "plural": "Duplex"
+          },
+          "TRIPLEX": {
+            "singular": "Triplex",
+            "plural": "Triplex"
+          },
+          "LOFT": {
+            "singular": "Loft",
+            "plural": "Lofts"
+          },
+          "FLAT": {
+            "singular": "Flat",
+            "plural": "Flats"
+          },
+          "KITNET": {
+            "singular": "Kitnet/Conjugado",
+            "plural": "Kitnets/Conjugados"
+          },
+          "HOME": {
+            "singular": "Casa",
+            "plural": "Casas"
+          },
+          "CONDOMINIUM": {
+            "singular": "Casa de condomínio",
+            "plural": "Casas de condomínio"
+          },
+          "VILLAGE_HOUSE": {
+            "singular": "Vila/Rua Particular",
+            "plural": "Vilas/Ruas Particulares"
+          },
+          "PENTHOUSE": {
+            "singular": "Cobertura",
+            "plural": "Coberturas"
+          },
+          "RESIDENTIAL_ALLOTMENT_LAND": {
+            "singular": "Lote/Terreno",
+            "plural": "Lotes/Terrenos"
+          },
+          "COMMERCIAL_ALLOTMENT_LAND": {
+            "singular": "Lote/Terreno",
+            "plural": "Lotes/Terrenos"
+          },
+          "ALLOTMENT_LAND": {
+            "singular": "Lote/Terreno",
+            "plural": "Lotes/Terrenos"
+          },
+          "OFFICE": {
+            "singular": "Sala/Conjunto",
+            "plural": "Salas/Conjuntos"
+          },
+          "SHED_DEPOSIT_WAREHOUSE": {
+            "singular": "Galpão/Depósito/Armazém",
+            "plural": "Galpões/Depósitos/Armazéns"
+          },
+          "STORE": {
+            "singular": "Loja",
+            "plural": "Lojas"
+          },
+          "HOTEL": {
+            "singular": "Hotel/Motel/Pousada",
+            "plural": "Hotéis/Motéis/Pousadas"
+          },
+          "COMMERCIAL_BUILDING": {
+            "singular": "Prédio comercial",
+            "plural": "Prédios comerciais"
+          },
+          "CLINIC": {
+            "singular": "Consultório",
+            "plural": "Consultórios"
+          },
+          "BUSINESS": {
+            "singular": "Ponto comercial/Loja/Box",
+            "plural": "Pontos comerciais/Lojas/Boxes"
+          },
+          "COUNTRY_HOUSE": {
+            "singular": "Chácara",
+            "plural": "Chácaras"
+          },
+          "FARM": {
+            "singular": "Fazenda/Sítio",
+            "plural": "Fazendas/Sítios"
+          },
+          "COMMERCIAL_PROPERTY": {
+            "singular": "Imóvel comercial",
+            "plural": "Imóveis comerciais"
+          },
+          "RESIDENTIAL_BUILDING": {
+            "singular": "Edifício residencial",
+            "plural": "Edifícios residenciais"
+          },
+          "PARKING_SPACE": {
+            "singular": "Garagem",
+            "plural": "Garagens"
+          },
+          "FLOOR": {
+            "singular": "Andar/Laje corporativa",
+            "plural": "Andares/Lajes corporativas"
+          }
+        }
+      },
+      "unitSubType": {
+        "items": {
+          "UnitSubType_NONE": {
+            "singular": "Não informado",
+            "plural": "Não informados"
+          },
+          "RETAIL_CENTER": {
+            "singular": "Centro comercial",
+            "plural": "Centros comerciais"
+          },
+          "PENTHOUSE": {
+            "singular": "Cobertura",
+            "plural": "Coberturas"
+          },
+          "CONDOMINIUM": {
+            "singular": "Condominio",
+            "plural": "Condominios"
+          },
+          "CLINIC": {
+            "singular": "Consultório",
+            "plural": "Consultórios"
+          },
+          "DUPLEX": {
+            "singular": "Duplex",
+            "plural": "Duplex"
+          },
+          "OFFICE": {
+            "singular": "Escritório",
+            "plural": "Escritórios"
+          },
+          "FLAT": {
+            "singular": "Flat",
+            "plural": "Flats"
+          },
+          "GALLERY": {
+            "singular": "Galeria",
+            "plural": "Galerias"
+          },
+          "LOFT": {
+            "singular": "Loft",
+            "plural": "Lofts"
+          },
+          "SHOPPING": {
+            "singular": "Shopping",
+            "plural": "Shoppings"
+          },
+          "TWO_STORY_HOUSE": {
+            "singular": "Sobrado",
+            "plural": "Sobrados"
+          },
+          "STUDIO": {
+            "singular": "Studio",
+            "plural": "Studios"
+          },
+          "TRIPLEX": {
+            "singular": "Triplex",
+            "plural": "Triplex"
+          },
+          "SINGLE_STOREY_HOUSE": {
+            "singular": "Térrea",
+            "plural": "Térreas"
+          },
+          "VILLAGE_HOUSE": {
+            "singular": "Vila/Rua Particular",
+            "plural": "Vilas/Ruas Particulares"
+          }
+        }
+      },
+      "state": {
+        "items": {
+          "AC": {
+            "singular": "Acre"
+          },
+          "AL": {
+            "singular": "Alagoas"
+          },
+          "AP": {
+            "singular": "Amapá"
+          },
+          "AM": {
+            "singular": "Amazonas"
+          },
+          "BA": {
+            "singular": "Bahia"
+          },
+          "CE": {
+            "singular": "Ceará"
+          },
+          "DF": {
+            "singular": "Distrito Federal"
+          },
+          "ES": {
+            "singular": "Espírito Santo"
+          },
+          "GO": {
+            "singular": "Goiás"
+          },
+          "MA": {
+            "singular": "Maranhão"
+          },
+          "MT": {
+            "singular": "Mato Grosso"
+          },
+          "MS": {
+            "singular": "Mato Grosso do Sul"
+          },
+          "MG": {
+            "singular": "Minas Gerais"
+          },
+          "PA": {
+            "singular": "Pará"
+          },
+          "PB": {
+            "singular": "Paraíba"
+          },
+          "PR": {
+            "singular": "Paraná"
+          },
+          "PE": {
+            "singular": "Pernambuco"
+          },
+          "PI": {
+            "singular": "Piauí"
+          },
+          "RJ": {
+            "singular": "Rio de Janeiro"
+          },
+          "RN": {
+            "singular": "Rio Grande do Norte"
+          },
+          "RS": {
+            "singular": "Rio Grande do Sul"
+          },
+          "RO": {
+            "singular": "Rondônia"
+          },
+          "RR": {
+            "singular": "Roraima"
+          },
+          "SC": {
+            "singular": "Santa Catarina"
+          },
+          "SP": {
+            "singular": "São Paulo"
+          },
+          "SE": {
+            "singular": "Sergipe"
+          },
+          "TO": {
+            "singular": "Tocantins"
+          }
+        }
+      }
+    }
+  },
+  "addresses": null,
+  "publisher": null,
+  "redirect": null,
+  "seo": {
+    "locationWidgets": {},
+    "metaContent": {
+      "robots": "",
+      "metaTitle": " Imóveis - Oferta de imóveis - Viva Real",
+      "metaDescription": "Mais de 6.136.089 imóveis para no Brasil? No Viva Real você acha a maior oferta de imóveis nas melhores imobiliárias do Brasil.",
+      "heading": "Oferta de Imóveis no Brasil",
+      "secondaryHeading": ""
+    },
+    "locationParent": null,
+    "placeholderText": {
+      "placeholderText": ""
+    }
+  },
+  "listingsLocation": {
+    "address": {},
+    "filter": {
+      "pricingInfo": {
+        "yearlyIptu": null,
+        "monthlyCondoFee": null,
+        "price": null,
+        "rentalTotalPrice": null
+      }
+    }
+  },
+  "url": {
+    "link": {
+      "name": "",
+      "href": "/",
+      "rel": ""
+    }
+  }
+}
