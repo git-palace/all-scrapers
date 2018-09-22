@@ -42,17 +42,7 @@ class vivareal_sale(scrapy.Spider):
 
 	businessType = 'SALE'
 
-	proxy_list = [
-		'https://173.0.63.37:5836',
-		'https://50.224.173.190:8080',
-		'https://73.27.90.85:8080',
-		'https://37.61.224.240:8195',
-		'https://198.23.143.9:51120',
-		'https://23.124.185.51:8080',
-		'https://23.24.157.122:8080',
-		'https://192.154.164.174:37281',
-		'https://64.58.194.130:41258'
-	]
+	proxy_list = []
 
 	sheet_headers = [
 		'Title',
@@ -83,6 +73,22 @@ class vivareal_sale(scrapy.Spider):
 
 			self.location_list = json.load(f)
 
+		with open('require/proxy_ips_%s.json' % (self.businessType), 'r') as f:
+
+			self.proxy_list = json.load(f)
+
+		self.proxy_list = [
+			'173.0.63.37:5836',
+			'50.224.173.190:8080',
+			'73.27.90.85:8080',
+			'37.61.224.240:8195',
+			'198.23.143.9:51120',
+			'23.124.185.51:8080',
+			'23.24.157.122:8080',
+			'192.154.164.174:37281',
+			'64.58.194.130:41258'
+		]
+
 		self.create_file()
 
 		pass
@@ -102,7 +108,7 @@ class vivareal_sale(scrapy.Spider):
 
 				# url  = 'https://glue-api.vivareal.com/v1/listings?size=100&from=0'
 
-				proxy = random.choice(self.proxy_list)
+				proxy = 'https://%s' % ( random.choice(self.proxy_list))
 
 				yield scrapy.Request(url=url, callback=self.parse, meta={'org_url': org_url, 'paged': 0, 'proxy': proxy})
 
@@ -217,7 +223,12 @@ class vivareal_sale(scrapy.Spider):
 					pass
 
 
-			yield scrapy.Request(url='%s&size=100&from=%s' % (response.meta['org_url'], paged*100), callback=self.parse, meta={'org_url': response.meta['org_url'], 'paged': paged})
+
+			proxy = 'https://%s' % ( random.choice(self.proxy_list))
+
+			yield scrapy.Request(url='%s&size=100&from=%s' % (response.meta['org_url'], paged*100), callback=self.parse, meta={'org_url': response.meta['org_url'], 'paged': paged, 'proxy': proxy})
+
+
 
 	def validate_images(self, img_url_list):
 
