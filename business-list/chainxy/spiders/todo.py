@@ -59,7 +59,6 @@ class todo(scrapy.Spider):
 	def start_requests(self):
 
 		yield scrapy.Request(url='https://yelp.com', callback=self.start_business_emails)
-		# yield scrapy.Request(url='https://www.gowillhart.com/', callback=self.parse, meta={'business_name': 'Go Will Hart', 'website': 'www.gowillhart.com'})
 
 
 
@@ -85,7 +84,7 @@ class todo(scrapy.Spider):
 
 						url = 'http://' + business['website']
 
-						yield scrapy.Request(url=url, callback=self.parse, meta={'business_name': business['business_name'], 'website': business['website']})
+						yield scrapy.Request(url=url, callback=self.parse, meta={'business_name': business['business_name'], 'website': url})
 
 				else:
 
@@ -122,7 +121,35 @@ class todo(scrapy.Spider):
 
 				item['email'] = email
 
-			yield item
+				yield item
+
+			else:
+
+				contact_link = response.xpath('//a[contains(text(), "contact") or contains(text(), "Contact") or contains(text(), "CONTACT")]/@href').extract_first()
+
+				if not contact_link:
+
+					yield item
+
+				else:
+
+					if contact_link not in self.history:
+
+						self.history.append(contact_link)
+
+						url = '%s%s' % (response.meta['website'] if 'http' not in contact_link else '', contact_link)
+
+						try:
+
+							yield scrapy.Request(url=url, callback=self.parse, meta={'business_name': response.meta['business_name'], 'website': item['website']})
+
+						except:
+
+							pass
+							
+					else:
+
+						yield item
 
 		else:
 
