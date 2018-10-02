@@ -43,7 +43,7 @@ class ChainxyPipeline(object):
         self.exporter = CsvItemExporter(file)
         # self.exporter.fields_to_export = ['company_name','contact','phone1','phone2','email','average','reviews','address','member_for','based_in']
         
-        self.exporter.fields_to_export = ['business_name', 'phone', 'lat', 'lng', 'website', 'detail_link', 'email']
+        self.exporter.fields_to_export = ['business_name', 'lat', 'lng', 'website', 'email']
         
         self.exporter.start_exporting()        
 

@@ -76,7 +76,7 @@ class vivareal_rental(scrapy.Spider):
 
 			self.location_list = json.load(f)
 
-		with open('require/proxy_ips.json', 'r') as f:
+		with open('require/proxy_ips_%s.json' % (self.businessType), 'r') as f:
 
 			self.proxy_list = json.load(f)
 
@@ -195,7 +195,7 @@ class vivareal_rental(scrapy.Spider):
 
 								self.total_scraped_count += 1
 
-								if self.total_scraped_count >= 5000 * (self.file_idx + 1):
+								if self.total_scraped_count >= 3000 * (self.file_idx + 1):
 
 									self.file_idx += 1
 

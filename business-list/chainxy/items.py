@@ -12,14 +12,10 @@ class ChainItem(Item):
 
     business_name = Field()
 
-    phone = Field()
-
     lat = Field()
 
     lng = Field()
 
     website = Field()
-
-    detail_link = Field()
 
     email = Field()
