@@ -26,7 +26,6 @@ from openpyxl import Workbook
 
 import random
 
-import time
 
 
 
@@ -92,7 +91,7 @@ class vivareal_sale(scrapy.Spider):
 
 				addressNeighborhood = neighborhood
 
-				org_url = 'https://glue-api.vivareal.com/v1/listings?filterPricingInfoBusinessType=%s&facets=amenities&filter=(address.neighborhood:"%s") AND pricingInfos.businessType:"%s" AND propertyType:"UNIT" AND listingType:"USED"&filterListingType=USED&includeFields=addresses,listingsLocation,seo,search,url,expansion,nearby,developments&filterPropertyType=UNIT&developmentsSize=5' % (self.businessType, neighborhood, self.businessType)
+				org_url = 'https://glue-api.vivareal.com/v1/listings?addressCity=%s&addressCountry=BR&addressState=%sfilterPricingInfoBusinessType=%s&facets=amenities&filter=(address.neighborhood:"%s") AND pricingInfos.businessType:"%s" AND propertyType:"UNIT" AND listingType:"USED"&filterListingType=USED&includeFields=addresses,listingsLocation,seo,search,url,expansion,nearby,developments&filterPropertyType=UNIT&developmentsSize=5' % (location['city'], location['state'], self.businessType, neighborhood, self.businessType)
 
 				url = '%s&size=100&from=0' % (org_url)
 
@@ -194,7 +193,7 @@ class vivareal_sale(scrapy.Spider):
 
 								self.total_scraped_count += 1
 
-								if self.total_scraped_count >= 5000 * (self.file_idx + 1):
+								if self.total_scraped_count >= 3000 * (self.file_idx + 1):
 
 									self.file_idx += 1
 
@@ -267,6 +266,8 @@ class vivareal_sale(scrapy.Spider):
 			main_table_sheet.cell( column = index+1, row = 1, value = header )
 
 		output_file_name = os.path.join(dir_path, 'scraped_data.xlsx')
+
+		os.remove(output_file_name) if os.path.exists(output_file_name) else None
 
 		self.workbook_list.append({
 			'filename': output_file_name,

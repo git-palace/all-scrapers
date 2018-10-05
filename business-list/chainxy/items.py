@@ -12,10 +12,6 @@ class ChainItem(Item):
 
     business_name = Field()
 
-    lat = Field()
-
-    lng = Field()
-
     website = Field()
 
     email = Field()

@@ -44,6 +44,7 @@ class business_email_list_xlsx(scrapy.Spider):
 
 	def __init__(self):
 
+		# self.wb = load_workbook('1.xlsx')
 		self.wb = load_workbook('00_business-list_20180928.xlsx')
 
 		self.ws = self.wb.active
@@ -64,6 +65,8 @@ class business_email_list_xlsx(scrapy.Spider):
 
 			if r_idx != 1:
 
+				business_name = self.ws.cell(r_idx, 1).value
+
 				url = self.ws.cell(r_idx, 2).value
 
 				if 'http' in url:
@@ -74,7 +77,7 @@ class business_email_list_xlsx(scrapy.Spider):
 
 					url = 'http://' + url
 
-				yield scrapy.Request(url=url, callback=self.parse, meta={'r_idx': r_idx, 'website': url})
+				yield scrapy.Request(url=url, callback=self.parse, meta={'business_name': business_name}, dont_filter=True)
 
 			r_idx += 1
 
@@ -82,58 +85,83 @@ class business_email_list_xlsx(scrapy.Spider):
 
 	def parse(self, response):
 
-		if (response.status == 200):
+		website = response.url
+
+		if 'website' in response.meta:
+
+			website = response.meta['website']
+
+		item = ChainItem()
+
+		item['business_name'] = response.meta['business_name']
+
+		item['website'] = website
+
+		
+		text_arr = response.xpath('//a[starts-with(@href, "mail")]/@href').extract()
+
+		if not len(text_arr):
 
 			text_arr = response.xpath('//body//text()').extract()
 
-			email = ''
+		email = ''
 
-			for text in text_arr:
+		for text in text_arr:
 
-				email = self.check_email(text)
-
-				if email:
-
-					break
+			email = self.check_email(text)
 
 			if email:
 
-				self.count += 1
+				break
 
-				print '======================================================='
-				print '======================================================='
-				print '======================== %s ==========================' % (self.count)
-				print '=========== %s, %s ==========' % (response.meta['website'], email)
-				print '======================================================='
-				print '======================================================='
+		if email:
 
-				self.ws.cell(response.meta['r_idx'], 3, email)
+			self.count += 1
 
-				self.wb.save('business-email-list.xlsx')
+			print '======================================================='
+			print '======================================================='
+			print '======================== %s ==========================' % (self.count)
+			print '=========== %s, %s ==========' % (website, email)
+			print '======================================================='
+			print '======================================================='
+
+			item['email'] = email
+
+			yield item
+
+		else:
+
+			contact_link = response.xpath('//a[contains(text(), "contact") or contains(text(), "Contact") or contains(text(), "CONTACT") or contains(@href, "contact") or contains(@href, "Contact") or contains(@href, "CONTACT")]/@href').extract_first()
+
+			if contact_link:
+
+				url = '%s%s' % (website+'/' if 'http' not in contact_link else '', contact_link)
+
+				url = url.replace('//'+contact_link, '/'+contact_link)
+
+				if len(url.split('//')) > 2:
+
+					url = '/'.join(['//'.join(url.split('//')[:2])]+url.split('//')[2:])
+
+				if url not in self.history:
+
+					self.history.append(url)
+
+					yield scrapy.Request(url=url, callback=self.parse, meta={'business_name': response.meta['business_name'], 'website': website})
+
+				else:
+
+					yield item
 
 			else:
 
-				contact_link = response.xpath('//a[contains(text(), "contact") or contains(text(), "Contact") or contains(text(), "CONTACT") or contains(@href, "contact") or contains(@href, "Contact") or contains(@href, "CONTACT")]/@href').extract_first()
-
-				if contact_link:
-
-					url = '%s%s' % (response.meta['website']+'/' if 'http' not in contact_link else '', contact_link)
-
-					url = url.replace('//'+contact_link, '/'+contact_link)
-
-					if len(url.split('//')) > 2:
-
-						url =  '/'.join(['//'.join(url.split('//')[:2])]+url.split('//')[2:])
-
-					if url not in self.history:
-
-						self.history.append(url)
-
-						yield scrapy.Request(url=url, callback=self.parse, meta={'r_idx': response.meta['r_idx'], 'website': response.meta['website']})
+				yield item
 
 
 
 	def check_email(self, text):
+
+		text = text.replace('mailto:', '')
 
 		for text in self.validate(text).split():
 

@@ -93,7 +93,7 @@ class vivareal_rental(scrapy.Spider):
 
 				addressNeighborhood = neighborhood
 
-				org_url = 'https://glue-api.vivareal.com/v1/listings?filterPricingInfoBusinessType=%s&facets=amenities&filter=(address.neighborhood:"%s") AND pricingInfos.businessType:"%s" AND propertyType:"UNIT" AND listingType:"USED"&filterListingType=USED&includeFields=addresses,listingsLocation,seo,search,url,expansion,nearby,developments&filterPropertyType=UNIT&developmentsSize=5' % (self.businessType, neighborhood, self.businessType)
+				org_url = 'https://glue-api.vivareal.com/v1/listings?addressCity=%s&addressCountry=BR&addressState=%sfilterPricingInfoBusinessType=%s&facets=amenities&filter=(address.neighborhood:"%s") AND pricingInfos.businessType:"%s" AND propertyType:"UNIT" AND listingType:"USED"&filterListingType=USED&includeFields=addresses,listingsLocation,seo,search,url,expansion,nearby,developments&filterPropertyType=UNIT&developmentsSize=5' % (location['city'], location['state'], self.businessType, neighborhood, self.businessType)
 
 				url = '%s&size=100&from=0' % (org_url)
 

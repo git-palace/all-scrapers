@@ -37,6 +37,8 @@ class business_email_list_csv(scrapy.Spider):
 
 	business_list = []
 
+	count = 0
+
 
 	def __init__(self):
 
@@ -84,7 +86,7 @@ class business_email_list_csv(scrapy.Spider):
 
 						url = 'http://' + business['website']
 
-						yield scrapy.Request(url=url, callback=self.parse, meta={'business_name': business['business_name'], 'website': url})
+					yield scrapy.Request(url=url, callback=self.parse, meta={'business_name': business['business_name']})
 
 				else:
 
@@ -101,11 +103,19 @@ class business_email_list_csv(scrapy.Spider):
 
 		item['business_name'] = response.meta['business_name']
 
-		item['website'] = response.meta['website']
+		item['website'] = response.url
+
+		if 'website' in response.meta:
+
+			item['website'] = response.meta['website']
 
 		if (response.status == 200):
 
-			text_arr = response.xpath('//body//text()').extract()
+			text_arr = response.xpath('//a[starts-with(@href, "mail")]/@href').extract()
+
+			if not len(text_arr):
+
+				text_arr = response.xpath('//body//text()').extract()
 
 			email = ''
 
@@ -118,6 +128,14 @@ class business_email_list_csv(scrapy.Spider):
 					break
 
 			if email:
+
+				self.count += 1
+
+				print '======================================================='
+				print '======================================================='
+				print '======================== %s ==========================' % (self.count)
+				print '======================================================='
+				print '======================================================='
 
 				item['email'] = email
 
@@ -133,17 +151,26 @@ class business_email_list_csv(scrapy.Spider):
 
 				else:
 
-					if contact_link not in self.history:
+					url = '%s%s' % (item['website']+'/' if 'http' not in contact_link else '', contact_link)
 
-						self.history.append(contact_link)
+					url = url.replace('//'+contact_link, '/'+contact_link)
 
-						url = '%s%s' % (response.meta['website'] if 'http' not in contact_link else '', contact_link)
+					if len(url.split('//')) > 2:
+
+						url =  '/'.join(['//'.join(url.split('//')[:2])]+url.split('//')[2:])
+
+
+					if url not in self.history:
+
+						self.history.append(url)
 
 						try:
 
 							yield scrapy.Request(url=url, callback=self.parse, meta={'business_name': response.meta['business_name'], 'website': item['website']})
 
 						except:
+
+							yield item
 
 							pass
 							
@@ -158,11 +185,15 @@ class business_email_list_csv(scrapy.Spider):
 
 	def check_email(self, text):
 
-		match = re.search(r"(^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$)", self.validate(text))
+		text = text.replace('mailto:', '')
 
-		if match:
+		for text in self.validate(text).split():
 
-			return match.group(0)
+			if '@' in text:
+
+				match = re.search(r"(^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$)", text)
+
+				return match.group(0) if match else False
 
 		return False
 
