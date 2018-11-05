@@ -61,6 +61,7 @@ class todo(scrapy.Spider):
 					self.locations[state].append(city)
 
 
+
 	def start_requests(self):
 
 		for state, cities in self.locations.items():
@@ -70,6 +71,8 @@ class todo(scrapy.Spider):
 				url  = 'https://www.booking.com/city/us/%s.html' % (city.lower().replace(' ', '-'))
 
 				yield scrapy.Request(url=url, callback=self.parse_city_page, meta={'state': state, 'city': city})
+
+
 
 	def parse_city_page(self, response):
 

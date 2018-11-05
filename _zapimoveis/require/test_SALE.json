@@ -1,0 +1,18 @@
+[
+  {
+    "formato": "Lista",
+    "ordem": "Relevancia",
+    "pagina": "1",
+    "paginaOrigem": "ResultadoBusca",
+    "parametrosautosuggest": [
+      {
+        "Agrupamento": "",
+        "Bairro": "",
+        "Cidade": "",
+        "Estado": "PI",
+        "Zona": ""
+      }
+    ],
+    "semente": "1655658893"
+  }
+]

@@ -70,14 +70,14 @@ class vivareal_sale(scrapy.Spider):
 
 	def __init__(self):
 
-		with open('require/neighborhoods.json', 'r') as f:
+		with open('require/new_neighborhoods.json', 'r') as f:
 
 			self.location_list = json.load(f)
 
 		with open('require/proxy_ips_%s.json' % (self.businessType), 'r') as f:
 
 			self.proxy_list = json.load(f)
-
+			
 		self.create_file()
 
 		pass
@@ -89,9 +89,8 @@ class vivareal_sale(scrapy.Spider):
 
 			for neighborhood in location['neighborhoods']:
 
-				addressNeighborhood = neighborhood
-
-				org_url = 'https://glue-api.vivareal.com/v1/listings?addressCity=%s&addressCountry=BR&addressState=%sfilterPricingInfoBusinessType=%s&facets=amenities&filter=(address.neighborhood:"%s") AND pricingInfos.businessType:"%s" AND propertyType:"UNIT" AND listingType:"USED"&filterListingType=USED&includeFields=addresses,listingsLocation,seo,search,url,expansion,nearby,developments&filterPropertyType=UNIT&developmentsSize=5' % (location['city'], location['state'], self.businessType, neighborhood, self.businessType)
+				# org_url = 'https://glue-api.vivareal.com/v1/listings?addressCity=%s&addressCountry=BR&addressState=%s&filterPricingInfoBusinessType=%s&facets=amenities&filter=(address.neighborhood:"%s") AND pricingInfos.businessType:"%s" AND propertyType:"UNIT" AND listingType:"USED"&filterListingType=USED&includeFields=addresses,listingsLocation,seo,search,url,expansion,nearby,developments&filterPropertyType=UNIT&developmentsSize=5' % (location['city'], location['state'], self.businessType, neighborhood, self.businessType)
+				org_url = 'https://glue-api.vivareal.com/v1/listings?addressCity=%s&addressCountry=BR&addressState=%s&filterPricingInfoBusinessType=%s&facets=amenities&filter=(address.neighborhood:"%s") AND pricingInfos.businessType:"%s" AND propertyType:"UNIT" AND listingType:"USED"&filterListingType=USED&includeFields=addresses,listingsLocation,seo,search,url,expansion,nearby,developments&filterPropertyType=UNIT&developmentsSize=5' % (neighborhood, location['state'], self.businessType, neighborhood, self.businessType)
 
 				url = '%s&size=100&from=0' % (org_url)
 

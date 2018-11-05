@@ -24,9 +24,6 @@ from openpyxl import Workbook
 
 import pdb
 
-from selenium import webdriver
-
-import time
 
 
 class zapimoveis(scrapy.Spider):
@@ -64,7 +61,7 @@ class zapimoveis(scrapy.Spider):
 
 	hashFragments = {}
 
-	fileLimit = 30
+	fileLimit = 3000
 
 
 	def __init__(self):	
@@ -92,7 +89,8 @@ class zapimoveis(scrapy.Spider):
 
 		for businessType in self.businessTypeList:
 
-			path = 'require/'+businessType+'.json'
+			path = 'require/test_'+businessType+'.json'
+			# path ='require/params_'+businessType+'.json'
 
 			self.sheet_headers[businessType] = headers
 
@@ -104,11 +102,7 @@ class zapimoveis(scrapy.Spider):
 
 				self.hashFragments[businessType] = json.load(f)
 
-
-		self.driver = webdriver.Chrome("./chromedriver.exe")
-
-		self.driver.maximize_window()
-
+	
 
 
 	def start_requests(self):
@@ -222,9 +216,17 @@ class zapimoveis(scrapy.Spider):
 
 							try:
 
-								detail_link = json.loads(_property['DataLayer'])['urlAnt']
+								detailLink = json.loads(_property['DataLayer'])['urlAnt']
 
-								self.parsePhones(detail_link, item, businessType)								
+								imovelID = _property['CodigoOfertaZAP']
+
+								imovelType = 'Venda' if businessType == 'SALE' else 'Aluguel'
+
+								yield scrapy.Request(url=detailLink, callback=self.parsePhones, meta={'imovelID': imovelID, 'imovelType': imovelType, 'item': item, 'businessType': businessType})
+
+								# for imgURL in imgURLs:
+
+									# yield scrapy.Request(url=imgURL, callback=self.downloadImage, meta={'businessType': businessType, 'folderIdx': len(self.workbooks[businessType]) + 1} )
 
 							except:
 
@@ -232,7 +234,11 @@ class zapimoveis(scrapy.Spider):
 
 				except:
 
-					pass
+					with open('res.txt', 'wb') as f:
+
+						f.write(response.body)
+
+					pdb.set_trace()
 
 
 			if 'oldResponse' not in response.meta or response.meta['oldResponse'] != data['Resultado']['Resultado']:
@@ -265,7 +271,7 @@ class zapimoveis(scrapy.Spider):
 
 			except:
 
-				pass
+				pdb.set_trace()
 
 		output_file_name = os.path.join(dir_path, 'results.xlsx')
 
@@ -329,34 +335,65 @@ class zapimoveis(scrapy.Spider):
 		return imgURLs
 
 
-	def parsePhones(self, detail_link, _item, businessType):
+	def downloadImage(self, response):
 
-		self.driver.get(detail_link)
+		dir_path = 'scraped-results/%s/images/%s' % (response.meta['businessType'], response.meta['folderIdx'])
 
-		self.driver.find_element_by_id('liTelefone').click()
+		os.makedirs(dir_path) if not os.path.exists(dir_path) else None
+		
+		name = dir_path + '/' + response.url.split('/')[-1]
 
-		time.sleep(2)
+		with open(name, 'wb') as f:
 
-		source = self.driver.page_source
+			f.write(response.body)
 
-		tree = etree.HTML(source)
 
-		item = _item
+	def parsePhones(self, response):
 
-		try:
+		if 'phoneResponse' in response.meta and 'item' in response.meta and 'businessType' in response.meta:
 
-			item['Phones'] = '\n'.join(tree.xpath('//a[@class="telefone"]/text()'))
+			try:
 
-			if item['Phones']:
+				data = json.loads(response.body)
 
-				if (self.scraped_count[businessType] >= self.fileLimit):
+			except:
 
-					self.createExcelFile(businessType)
+				pdb.set_trace()
 
-					self.scraped_count[businessType] = 0
+			phones = []
 
-				self.writeExcel(businessType, item)
+			for phone in data['Telefones']:
 
-		except:
+				phones.append((phone['DDD'] + phone['Numero']))
 
-			pass
+			item = response.meta['item']
+
+			item['Phones'] = ',\n'.join(phones)
+
+			businessType = response.meta['businessType']
+
+			if (self.scraped_count[businessType] >= self.fileLimit):
+
+				self.createExcelFile(businessType)
+
+				self.scraped_count[businessType] = 0
+
+			self.writeExcel(businessType, item)
+
+		elif 'imovelID' in response.meta and 'imovelType' in response.meta and 'item' in response.meta and 'businessType' in response.meta :
+
+			token = response.xpath('//input[@name="__RequestVerificationToken"]/@value').extract_first()
+
+			formData = {
+				'parametros': json.dumps({
+						"ImovelID": str(response.meta['imovelID']),
+						"TipoOferta": "Imovel",
+						"OrigemLead": "Ficha",
+						"IndiceContatoCampanha": "0",
+						"Transacao": str(response.meta['imovelType'])
+					}),
+				'__RequestVerificationToken': token
+			}
+
+			yield scrapy.FormRequest(url='https://www.zapimoveis.com.br/VerTelefone/Buscar/', headers=self.headers, method='POST', formdata=formData, callback=self.parsePhones, meta={'phoneResponse': True, 'item': response.meta['item'], 'businessType': response.meta
+				['businessType']})
