@@ -40,8 +40,8 @@ class todo(scrapy.Spider):
 		self.driver.get(self.domain)
 		
 		Select(self.driver.find_element_by_id('LoginType')).select_by_value('2')
-		self.driver.find_element_by_id('LoginName').send_keys('danielskathy')
-		self.driver.find_element_by_id('Pwd').send_keys('GENMED1452')
+		self.driver.find_element_by_id('LoginName').send_keys('username')
+		self.driver.find_element_by_id('Pwd').send_keys('password')
 		self.driver.find_element_by_id('bLogin').click()
 
 		time.sleep(1)
